@@ -61,7 +61,7 @@
   margin: 0 auto;
   padding: 0 20px;
 ">
-  I'm a passionate <strong style="color:#F76B8A;">Frontend Developer</strong> and <strong style="color:#6A82FB;">UI/UX Designer</strong> with a knack for creating beautiful, functional digital experiences. With expertise in modern web technologies and a designer's eye for detail, I bridge the gap between aesthetics and functionality.
+  Hi! I’m Sweta Kadam, a passionate Frontend Developer and UI/UX Designer who loves turning ideas into beautiful, user-friendly digital experiences. I blend creativity with code to build intuitive, responsive websites and applications.
   <br/><br/>
   🔭 Currently working on exciting projects that challenge my skills
   <br/>
