@@ -33,6 +33,22 @@
 </p>
 
 ---
+---
+
+## 🎮 Play My Game: Snake 🐍
+
+<p align="center">
+  <a href="https://yourgamehost.com/snake" target="_blank">
+    <img src="https://github.com/Shweta-Tech-creator/assets/blob/main/snake-preview.gif?raw=true" alt="Snake Game Preview" width="300"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://yourgamehost.com/snake">
+    <img src="https://img.shields.io/badge/Play-Snake%20Game-green?style=for-the-badge&logo=python&logoColor=white" alt="Play Snake Badge"/>
+  </a>
+</p>
+
 
 ## 📊 GitHub Stats:
 <p align="center">
@@ -40,12 +56,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Shweta-Tech-creator&theme=ocean_dark&hide_border=false" />
 </p>
 
----
 
-## 🐍 GitHub Contribution Snake:
-<p align="center">
-  <img src="https://github.com/Shweta-Tech-creator/Shweta-Tech-creator/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+
 
 ---
 
