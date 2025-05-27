@@ -72,7 +72,7 @@
 
 ## 📫 Connect with Me
 <p align="center">
-  📧 Email: your-email@example.com <br/>
+  📧 Email: kadamsweta92@gmail.com <br/>
   🌐 <a href="https://www.linkedin.com/in/sweta-kadam-5851a4323/">LinkedIn</a> | 
   💻 <a href="https://github.com/Shweta-Tech-creator">GitHub</a>
 </p>
