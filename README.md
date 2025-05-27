@@ -9,7 +9,6 @@
 <!-- Profile Image + Coding GIF -->
 <p align="center">
   <img src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?w=740" alt="Sweta Kadam" width="180" style="border-radius: 50%;"/>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coding gif">
 </p>
 
 <!-- Social Badges -->
