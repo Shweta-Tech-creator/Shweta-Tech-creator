@@ -1,82 +1,288 @@
-<!-- Typing Animation Header -->
-<h2 align="center">
-  <span style="background: linear-gradient(90deg, #F76B8A, #6A82FB); -webkit-background-clip: text; color: transparent; font-family: 'Fira Code', monospace; font-weight: 900;">
-    👋 Hi! I'm <span style="color:#FF61A6;">Sweta Kadam</span>
+<!-- Animated Gradient Header -->
+<h1 align="center">
+  <span style="
+    background: linear-gradient(90deg, #F76B8A, #6A82FB, #F76B8A);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 800;
+    font-size: 2.5rem;
+    text-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    display: inline-block;
+    animation: gradient 8s ease infinite;
+    background-size: 200% 200%;
+  ">
+    ✨ Hello World! I'm <span style="color:#FF61A6;">Sweta Kadam</span> ✨
   </span>
-</h2>
+</h1>
 
+<!-- Typing Animation with Emoji Wave -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=500&color=F76B8A&center=true&vCenter=true&width=650&height=80&lines=Frontend+Developer+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Tech+Enthusiast+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Problem+Solver+%F0%9F%A4%96;Continuous+Learner+%F0%9F%93%9A" alt="Typing SVG" />
+</div>
+
+<!-- Profile Image with Floating Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=F76B8A&center=true&vCenter=true&width=650&lines=Frontend+Developer;UI%2FUX+Designer;Tech+Enthusiast;Problem+Solver+%F0%9F%A4%9E;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?w=740" alt="Sweta Kadam" width="200" style="
+    border-radius: 50%;
+    box-shadow: 0 0 25px 5px rgba(247,107,138,0.3);
+    transition: transform 0.5s ease;
+    animation: float 6s ease-in-out infinite;
+  " onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
 </p>
 
-<!-- Profile Image + Coding GIF -->
+<!-- Social Badges with Hover Effects -->
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?w=740" alt="Sweta Kadam" width="180" style="border-radius: 50%; box-shadow: 0 0 15px 4px #F76B8A;" />
-</p>
-
-<!-- Social Badges -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/sweta-kadam-5851a4323" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/sweta-kadam-5851a4323" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=white" alt="LinkedIn" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='translateY(-3px)'" onmouseout="this.style.transform='translateY(0)'"/>
   </a>
-  <a href="https://github.com/Shweta-Tech-creator" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/Shweta-Tech-creator" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='translateY(-3px)'" onmouseout="this.style.transform='translateY(0)'"/>
+  </a>
+  <a href="mailto:kadamsweta92@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='translateY(-3px)'" onmouseout="this.style.transform='translateY(0)'"/>
   </a>
 </p>
 
-<hr style="border: none; height: 4px; background: linear-gradient(90deg, #F76B8A, #6A82FB); margin: 50px 0; border-radius: 4px;">
+<!-- Animated Gradient Divider -->
+<div align="center">
+  <img src="https://github.com/Shweta-Tech-creator/Shweta-Tech-creator/blob/main/assets/gradient-divider.gif?raw=true" width="100%" height="4px" alt="divider"/>
+</div>
 
-## 🙋‍♀️ <span style="background: linear-gradient(90deg, #6A82FB, #F76B8A); -webkit-background-clip: text; color: transparent;">About Me</span>
-<p align="center" style="font-family: 'Fira Code', monospace; font-size: 18px; color: #D4D4F7;">
-  I'm a curious and creative <strong style="color:#F76B8A;">Frontend Developer</strong> & <strong style="color:#6A82FB;">UI/UX Designer</strong> who enjoys blending code with creativity to craft delightful web experiences.  
+## 🌟 <span style="background: linear-gradient(90deg, #F76B8A, #6A82FB); -webkit-background-clip: text; color: transparent;">About Me</span>
+<p style="
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 18px;
+  color: #D4D4F7;
+  line-height: 1.6;
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 20px;
+">
+  I'm a passionate <strong style="color:#F76B8A;">Frontend Developer</strong> and <strong style="color:#6A82FB;">UI/UX Designer</strong> with a knack for creating beautiful, functional digital experiences. With expertise in modern web technologies and a designer's eye for detail, I bridge the gap between aesthetics and functionality.
   <br/><br/>
-  🌱 I love learning new tech, building fun projects, and solving problems.  
-  <br/><br/>
-  💡 Currently exploring full-stack development, open-source collaboration, and the art of clean code.
-</p>
-
-<hr style="border: none; height: 4px; background: linear-gradient(90deg, #F76B8A, #6A82FB); margin: 50px 0; border-radius: 4px;">
-
-## 🧰 <span style="background: linear-gradient(90deg, #6A82FB, #F76B8A); -webkit-background-clip: text; color: transparent;">Tech Stack</span>
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-<hr style="border: none; height: 4px; background: linear-gradient(90deg, #F76B8A, #6A82FB); margin: 50px 0; border-radius: 4px;">
-
-## 🚀 <span style="background: linear-gradient(90deg, #6A82FB, #F76B8A); -webkit-background-clip: text; color: transparent;">Projects</span>
-- 🎯 <strong style="color:#F76B8A;">Buildhathon 4.0 Website</strong> – Landing page, slider, modals, and interactive sections using <code style="background:#222;color:#F76B8A;padding:2px 4px;border-radius:4px;">HTML/CSS/JS</code>  
-- 📋 <strong style="color:#6A82FB;">To-Do List Web App</strong> – Organized productivity tool with local storage and responsive design  
-- 🌐 <strong style="color:#F76B8A;">Portfolio Website</strong> – Personal branding site with animations and sections like skills, projects & contact
-
-<hr style="border: none; height: 4px; background: linear-gradient(90deg, #F76B8A, #6A82FB); margin: 50px 0; border-radius: 4px;">
-
-## 📈 <span style="background: linear-gradient(90deg, #6A82FB, #F76B8A); -webkit-background-clip: text; color: transparent;">GitHub Stats</span>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shweta-Tech-creator&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shweta-Tech-creator&theme=ocean_dark&hide_border=false" />
+  🔭 Currently working on exciting projects that challenge my skills
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shweta-Tech-creator&layout=compact&theme=ocean_dark" />
+  🌱 Learning <strong>React.js</strong> and <strong>Advanced CSS Animations</strong>
+  <br/>
+  💡 Fascinated by <strong>Responsive Design</strong> and <strong>User Experience</strong>
+  <br/>
+  🎨 When not coding, I enjoy <strong style="color:#F76B8A;">digital art</strong> and <strong style="color:#6A82FB;">photography</strong>
 </p>
 
-<hr style="border: none; height: 4px; background: linear-gradient(90deg, #F76B8A, #6A82FB); margin: 50px 0; border-radius: 4px;">
+<!-- Skills Section with Progress Bars -->
+<div align="center">
+  <h2>🛠 <span style="background: linear-gradient(90deg, #6A82FB, #F76B8A); -webkit-background-clip: text; color: transparent;">Technical Skills</span></h2>
+  
+  <!-- Languages -->
+  <h3 align="left">💻 Programming Languages</h3>
+  <p align="left">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  </p>
+  
+  <!-- Web Technologies -->
+  <h3 align="left">🌐 Web Development</h3>
+  <p align="left">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  </p>
+  
+  <!-- Tools -->
+  <h3 align="left">🔧 Tools & Platforms</h3>
+  <p align="left">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  </p>
+</div>
 
-## ✨ <span style="background: linear-gradient(90deg, #6A82FB, #F76B8A); -webkit-background-clip: text; color: transparent;">Quote I Live By</span>
-<p align="center" style="font-style: italic; font-family: 'Courier New', Courier, monospace; color:#D4D4F7; font-size: 20px;">
-  "Strive for <span style="color:#F76B8A;">progress</span>, not <span style="color:#6A82FB;">perfection</span>." 💫
-</p>
+<!-- Projects Section with Cards -->
+<h2 align="center">🚀 <span style="background: linear-gradient(90deg, #F76B8A, #6A82FB); -webkit-background-clip: text; color: transparent;">Featured Projects</span></h2>
 
-<hr style="border: none; height: 4px; background: linear-gradient(90deg, #F76B8A, #6A82FB); margin: 50px 0; border-radius: 4px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
+  <!-- Project 1 -->
+  <div style="
+    background: linear-gradient(145deg, #1e1e2e, #2a2a3a);
+    border-radius: 15px;
+    padding: 20px;
+    width: 300px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+    transition: transform 0.3s ease;
+    border-left: 4px solid #F76B8A;
+  " onmouseover="this.style.transform='translateY(-10px)'" onmouseout="this.style.transform='translateY(0)'">
+    <h3 style="color: #F76B8A; margin-top: 0;">Buildhathon 4.0 Website</h3>
+    <p style="color: #D4D4F7;">Interactive landing page with animated sections, modals, and responsive design</p>
+    <div style="margin-top: 15px;">
+      <span style="background: #6A82FB; color: white; padding: 3px 8px; border-radius: 4px; font-size: 12px;">HTML</span>
+      <span style="background: #6A82FB; color: white; padding: 3px 8px; border-radius: 4px; font-size: 12px;">CSS</span>
+      <span style="background: #6A82FB; color: white; padding: 3px 8px; border-radius: 4px; font-size: 12px;">JavaScript</span>
+    </div>
+  </div>
+  
+  <!-- Project 2 -->
+  <div style="
+    background: linear-gradient(145deg, #1e1e2e, #2a2a3a);
+    border-radius: 15px;
+    padding: 20px;
+    width: 300px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+    transition: transform 0.3s ease;
+    border-left: 4px solid #6A82FB;
+  " onmouseover="this.style.transform='translateY(-10px)'" onmouseout="this.style.transform='translateY(0)'">
+    <h3 style="color: #6A82FB; margin-top: 0;">To-Do List Web App</h3>
+    <p style="color: #D4D4F7;">Productivity application with local storage, task categorization, and dark mode</p>
+    <div style="margin-top: 15px;">
+      <span style="background: #F76B8A; color: white; padding: 3px 8px; border-radius: 4px; font-size: 12px;">HTML</span>
+      <span style="background: #F76B8A; color: white; padding: 3px 8px; border-radius: 4px; font-size: 12px;">CSS</span>
+      <span style="background: #F76B8A; color: white; padding: 3px 8px; border-radius: 4px; font-size: 12px;">JavaScript</span>
+    </div>
+  </div>
+  
+  <!-- Project 3 -->
+  <div style="
+    background: linear-gradient(145deg, #1e1e2e, #2a2a3a);
+    border-radius: 15px;
+    padding: 20px;
+    width: 300px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+    transition: transform 0.3s ease;
+    border-left: 4px solid #FF61A6;
+  " onmouseover="this.style.transform='translateY(-10px)'" onmouseout="this.style.transform='translateY(0)'">
+    <h3 style="color: #FF61A6; margin-top: 0;">Portfolio Website</h3>
+    <p style="color: #D4D4F7;">Personal showcase with animated sections, project gallery, and contact form</p>
+    <div style="margin-top: 15px;">
+      <span style="background: #FF61A6; color: white; padding: 3px 8px; border-radius: 4px; font-size: 12px;">HTML</span>
+      <span style="background: #FF61A6; color: white; padding: 3px 8px; border-radius: 4px; font-size: 12px;">CSS</span>
+      <span style="background: #FF61A6; color: white; padding: 3px 8px; border-radius: 4px; font-size: 12px;">JavaScript</span>
+    </div>
+  </div>
+</div>
 
-## 📫 <span style="background: linear-gradient(90deg, #6A82FB, #F76B8A); -webkit-background-clip: text; color: transparent;">Connect with Me</span>
-<p align="center" style="font-family: 'Fira Code', monospace; font-size: 18px; color: #D4D4F7;">
-  📧 Email: <a href="mailto:kadamsweta92@gmail.com" style="color:#F76B8A;">kadamsweta92@gmail.com</a> <br/>
-  🌐 <a href="https://www.linkedin.com/in/sweta-kadam-5851a4323/" target="_blank" style="color:#6A82FB;">LinkedIn</a> | 
-  💻 <a href="https://github.com/Shweta-Tech-creator" target="_blank" style="color:#F76B8A;">GitHub</a>
-</p>
+<!-- GitHub Stats with 3D Effect -->
+<h2 align="center">📊 <span style="background: linear-gradient(90deg, #6A82FB, #F76B8A); -webkit-background-clip: text; color: transparent;">GitHub Analytics</span></h2>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shweta-Tech-creator&show_icons=true&theme=radical&border_color=6A82FB&bg_color=0D1117&title_color=F76B8A&icon_color=6A82FB" alt="GitHub Stats" style="border-radius: 10px; box-shadow: 0 10px 20px rgba(106,130,251,0.2);"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shweta-Tech-creator&theme=radical&border_color=6A82FB&background=0D1117&stroke=F76B8A" alt="GitHub Streak" style="border-radius: 10px; box-shadow: 0 10px 20px rgba(247,107,138,0.2);"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shweta-Tech-creator&layout=compact&theme=radical&border_color=6A82FB&bg_color=0D1117&title_color=F76B8A" alt="Top Languages" style="border-radius: 10px; box-shadow: 0 10px 20px rgba(106,130,251,0.2);"/>
+</div>
+
+<!-- Activity Graph -->
+<h2 align="center">🔥 <span style="background: linear-gradient(90deg, #F76B8A, #6A82FB); -webkit-background-clip: text; color: transparent;">Contribution Graph</span></h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shweta-Tech-creator&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&area_color=F76B8A&line=6A82FB&point=F76B8A" alt="Activity Graph" width="90%" style="border-radius: 10px;"/>
+</div>
+
+<!-- Quote Section with Animation -->
+<h2 align="center">💭 <span style="background: linear-gradient(90deg, #6A82FB, #F76B8A); -webkit-background-clip: text; color: transparent;">Words to Code By</span></h2>
+
+<div align="center" style="
+  background: linear-gradient(145deg, #1e1e2e, #2a2a3a);
+  border-radius: 15px;
+  padding: 20px;
+  max-width: 700px;
+  margin: 0 auto;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+  border-left: 4px solid #F76B8A;
+  border-right: 4px solid #6A82FB;
+">
+  <p style="
+    font-family: 'Georgia', serif;
+    font-size: 22px;
+    font-style: italic;
+    color: #D4D4F7;
+    line-height: 1.6;
+    text-align: center;
+  ">
+    "The beautiful thing about learning is that <span style="color:#F76B8A;">no one can take it away from you</span>."<br/>
+    <span style="display: inline-block; margin-top: 10px; font-size: 18px; color: #6A82FB;">— B.B. King</span>
+  </p>
+</div>
+
+<!-- Contact Section with Glow Effect -->
+<h2 align="center">📬 <span style="background: linear-gradient(90deg, #F76B8A, #6A82FB); -webkit-background-clip: text; color: transparent;">Let's Connect!</span></h2>
+
+<div align="center" style="
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 15px;
+  margin: 30px 0;
+">
+  <a href="mailto:kadamsweta92@gmail.com" style="
+    background: linear-gradient(145deg, #F76B8A, #FF61A6);
+    color: white;
+    padding: 12px 25px;
+    border-radius: 50px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: all 0.3s ease;
+    box-shadow: 0 5px 15px rgba(247,107,138,0.3);
+  " onmouseover="this.style.transform='translateY(-3px)'; this.style.boxShadow='0 8px 20px rgba(247,107,138,0.5)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 5px 15px rgba(247,107,138,0.3)'">
+    ✉️ Email Me
+  </a>
+  
+  <a href="https://www.linkedin.com/in/sweta-kadam-5851a4323" target="_blank" style="
+    background: linear-gradient(145deg, #6A82FB, #7B90FF);
+    color: white;
+    padding: 12px 25px;
+    border-radius: 50px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: all 0.3s ease;
+    box-shadow: 0 5px 15px rgba(106,130,251,0.3);
+  " onmouseover="this.style.transform='translateY(-3px)'; this.style.boxShadow='0 8px 20px rgba(106,130,251,0.5)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 5px 15px rgba(106,130,251,0.3)'">
+    💼 LinkedIn
+  </a>
+  
+  <a href="https://github.com/Shweta-Tech-creator" target="_blank" style="
+    background: linear-gradient(145deg, #333, #555);
+    color: white;
+    padding: 12px 25px;
+    border-radius: 50px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: all 0.3s ease;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+  " onmouseover="this.style.transform='translateY(-3px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.3)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 5px 15px rgba(0,0,0,0.2)'">
+    🐱 GitHub
+  </a>
+</div>
+
+<!-- Footer with Animated Text -->
+<div align="center" style="
+  margin-top: 50px;
+  padding: 20px;
+  font-family: 'Fira Code', monospace;
+  color: #D4D4F7;
+  font-size: 14px;
+">
+  <p>Made with ❤️ and <span style="color:#F76B8A;">JavaScript</span></p>
+  <p style="font-size: 12px; opacity: 0.7;">© 2023 Sweta Kadam | Keep Coding!</p>
+</div>
+
+<!-- CSS Animations -->
+<style>
+  @keyframes gradient {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+  }
+  
+  @keyframes float {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-15px); }
+    100% { transform: translateY(0px); }
+  }
+</style>
