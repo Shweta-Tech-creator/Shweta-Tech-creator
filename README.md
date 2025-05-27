@@ -7,7 +7,7 @@
 
 <!-- Profile Image -->
 <p align="center">
-  <img src="https://github.com/your-username/your-photo-path.jpg" alt="Sweta Kadam" width="200" style="border-radius: 50%;">
+  <img src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?semt=ais_items_boosted&w=740" alt="Sweta Kadam" width="200" style="border-radius: 50%;">
 </p>
 
 <!-- LinkedIn Badge -->
