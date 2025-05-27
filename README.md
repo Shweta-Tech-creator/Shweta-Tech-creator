@@ -71,9 +71,6 @@
   <br/>
   🎯 Motivated by challenges and continuous growth in the tech world.
 
-  ## 🐦 Flappy Bird Clone
-
-[![Flappy Bird](https://raw.githubusercontent.com/sourabhv/FlapPyBird/master/assets/screenshot.png)](https://github.com/sourabhv/FlapPyBird)
 
 <!-- Skills Section with Progress Bars -->
 <div align="center">
