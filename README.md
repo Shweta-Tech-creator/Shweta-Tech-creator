@@ -1,4 +1,3 @@
-
 <!-- Typing Animation Header -->
 <h2 align="center">👋 Hi! I'm Sweta Kadam</h2>
 
@@ -21,7 +20,7 @@
   </a>
 </p>
 
----
+<hr style="border: none; height: 3px; background: linear-gradient(90deg, #F76B8A, #6A82FB); margin: 40px 0;">
 
 ## 🙋‍♀️ About Me
 <p align="center">
@@ -32,7 +31,7 @@
   💡 Currently exploring full-stack development, open-source collaboration, and the art of clean code.
 </p>
 
----
+<hr style="border: none; height: 3px; background: linear-gradient(90deg, #F76B8A, #6A82FB); margin: 40px 0;">
 
 ## 🧰 Tech Stack
 <p align="center">
@@ -45,14 +44,14 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
----
+<hr style="border: none; height: 3px; background: linear-gradient(90deg, #F76B8A, #6A82FB); margin: 40px 0;">
 
 ## 🚀 Projects
 - 🎯 **Buildhathon 4.0 Website** – Landing page, slider, modals, and interactive sections using HTML/CSS/JS  
 - 📋 **To-Do List Web App** – Organized productivity tool with local storage and responsive design  
 - 🌐 **Portfolio Website** – Personal branding site with animations and sections like skills, projects & contact
 
----
+<hr style="border: none; height: 3px; background: linear-gradient(90deg, #F76B8A, #6A82FB); margin: 40px 0;">
 
 ## 📈 GitHub Stats
 <p align="center">
@@ -62,12 +61,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shweta-Tech-creator&layout=compact&theme=ocean_dark" />
 </p>
 
----
+<hr style="border: none; height: 3px; background: linear-gradient(90deg, #F76B8A, #6A82FB); margin: 40px 0;">
 
 ## ✨ Quote I Live By
 <p align="center"><i>"Strive for progress, not perfection."</i> 💫</p>
 
----
+<hr style="border: none; height: 3px; background: linear-gradient(90deg, #F76B8A, #6A82FB); margin: 40px 0;">
 
 ## 📫 Connect with Me
 <p align="center">
@@ -75,6 +74,3 @@
   🌐 <a href="https://www.linkedin.com/in/sweta-kadam-5851a4323/">LinkedIn</a> | 
   💻 <a href="https://github.com/Shweta-Tech-creator">GitHub</a>
 </p>
-
-
-
