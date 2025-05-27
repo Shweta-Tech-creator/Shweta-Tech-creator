@@ -259,10 +259,3 @@
   </a>
 </div>
 
-<!-- Snake Game Section -->
-<h2 align="center">🐍 <span style="background: linear-gradient(90deg, #6A82FB, #F76B8A); -webkit-background-clip: text; color: transparent;">Play Snake Game!</span></h2>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Shweta-Tech-creator/Shweta-Tech-creator/output/github-contribution-grid-snake.svg" alt="Snake Game" width="100%"/>
-</div>
-
