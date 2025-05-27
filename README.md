@@ -11,12 +11,22 @@
   <img src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?semt=ais_items_boosted&w=740" alt="Sweta Kadam" width="200" style="border-radius: 50%;">
 </p>
 
-
 <!-- Social Badge -->
 <p align="center">
   <a href="https://www.linkedin.com/in/sweta-kadam-5851a4323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+</p>
+
+---
+
+## 🙋‍♀️ About Me:
+<p align="center">
+  I'm a passionate <strong>Frontend Developer</strong> and <strong>UI/UX Designer</strong> who loves bringing ideas to life through creative and intuitive web interfaces.  
+  <br/><br/>
+  I enjoy solving real-world problems, learning new technologies, and continuously improving my skills.  
+  <br/><br/>
+  Currently exploring the world of full-stack development and constantly working on fun side projects!
 </p>
 
 ---
@@ -33,22 +43,6 @@
 </p>
 
 ---
----
-
-## 🎮 Play My Game: Snake 🐍
-
-<p align="center">
-  <a href="https://yourgamehost.com/snake" target="_blank">
-    <img src="https://github.com/Shweta-Tech-creator/assets/blob/main/snake-preview.gif?raw=true" alt="Snake Game Preview" width="300"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://yourgamehost.com/snake">
-    <img src="https://img.shields.io/badge/Play-Snake%20Game-green?style=for-the-badge&logo=python&logoColor=white" alt="Play Snake Badge"/>
-  </a>
-</p>
-
 
 ## 📊 GitHub Stats:
 <p align="center">
@@ -56,13 +50,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Shweta-Tech-creator&theme=ocean_dark&hide_border=false" />
 </p>
 
-
-
-
 ---
 
 ## 📫 Connect with Me:
 - 📧 Email: your-email@example.com  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/sweta-kadam-5851a4323/)  
 - 💻 [GitHub](https://github.com/Shweta-Tech-creator)
+
 
