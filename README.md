@@ -65,7 +65,7 @@
   <br/><br/>
   🔭 Currently working on exciting projects that challenge my skills
   <br/>
-  🌱 Learning <strong>React.js</strong> and <strong>Advanced CSS Animations</strong>
+  🌱 Always eager to learn and explore new technologies.
   <br/>
   💡 Fascinated by <strong>Responsive Design</strong> and <strong>User Experience</strong>
   <br/>
