@@ -260,29 +260,3 @@
   </a>
 </div>
 
-<!-- Footer with Animated Text -->
-<div align="center" style="
-  margin-top: 50px;
-  padding: 20px;
-  font-family: 'Fira Code', monospace;
-  color: #D4D4F7;
-  font-size: 14px;
-">
-  <p>Made with ❤️ and <span style="color:#F76B8A;">JavaScript</span></p>
-  <p style="font-size: 12px; opacity: 0.7;">© 2023 Sweta Kadam | Keep Coding!</p>
-</div>
-
-<!-- CSS Animations -->
-<style>
-  @keyframes gradient {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
-  }
-  
-  @keyframes float {
-    0% { transform: translateY(0px); }
-    50% { transform: translateY(-15px); }
-    100% { transform: translateY(0px); }
-  }
-</style>
