@@ -119,11 +119,7 @@
   " onmouseover="this.style.transform='translateY(-10px)'" onmouseout="this.style.transform='translateY(0)'">
     <h3 style="color: #F76B8A; margin-top: 0;">Buildhathon 4.0 Website</h3>
     <p style="color: #D4D4F7;">Interactive landing page with animated sections, modals, and responsive design</p>
-    <div style="margin-top: 15px;">
-      <span style="background: #6A82FB; color: white; padding: 3px 8px; border-radius: 4px; font-size: 12px;">HTML</span>
-      <span style="background: #6A82FB; color: white; padding: 3px 8px; border-radius: 4px; font-size: 12px;">CSS</span>
-      <span style="background: #6A82FB; color: white; padding: 3px 8px; border-radius: 4px; font-size: 12px;">JavaScript</span>
-    </div>
+   
   </div>
   
   <!-- Project 2 -->
@@ -138,11 +134,7 @@
   " onmouseover="this.style.transform='translateY(-10px)'" onmouseout="this.style.transform='translateY(0)'">
     <h3 style="color: #6A82FB; margin-top: 0;">To-Do List Web App</h3>
     <p style="color: #D4D4F7;">Productivity application with local storage, task categorization, and dark mode</p>
-    <div style="margin-top: 15px;">
-      <span style="background: #F76B8A; color: white; padding: 3px 8px; border-radius: 4px; font-size: 12px;">HTML</span>
-      <span style="background: #F76B8A; color: white; padding: 3px 8px; border-radius: 4px; font-size: 12px;">CSS</span>
-      <span style="background: #F76B8A; color: white; padding: 3px 8px; border-radius: 4px; font-size: 12px;">JavaScript</span>
-    </div>
+    
   </div>
   
   <!-- Project 3 -->
@@ -157,12 +149,7 @@
   " onmouseover="this.style.transform='translateY(-10px)'" onmouseout="this.style.transform='translateY(0)'">
     <h3 style="color: #FF61A6; margin-top: 0;">Portfolio Website</h3>
     <p style="color: #D4D4F7;">Personal showcase with animated sections, project gallery, and contact form</p>
-    <div style="margin-top: 15px;">
-      <span style="background: #FF61A6; color: white; padding: 3px 8px; border-radius: 4px; font-size: 12px;">HTML</span>
-      <span style="background: #FF61A6; color: white; padding: 3px 8px; border-radius: 4px; font-size: 12px;">CSS</span>
-      <span style="background: #FF61A6; color: white; padding: 3px 8px; border-radius: 4px; font-size: 12px;">JavaScript</span>
-    </div>
-  </div>
+   
 </div>
 
 <!-- GitHub Stats with 3D Effect -->
