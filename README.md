@@ -69,8 +69,7 @@
   <br/>
   💡 Fascinated by <strong>Responsive Design</strong> and <strong>User Experience</strong>
   <br/>
-  🎨 When not coding, I enjoy <strong style="color:#F76B8A;">digital art</strong> and <strong style="color:#6A82FB;">photography</strong>
-</p>
+  🎯 Motivated by challenges and continuous growth in the tech world.
 
 <!-- Skills Section with Progress Bars -->
 <div align="center">
