@@ -1,14 +1,50 @@
-<!-- Typing Animation Header -->
-<h2 align="center">👋 Hi! I'm Sweta Kadam</h2>
+<!-- About Section: Sweta Kadam -->
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; background-color: #0d1117; padding: 20px; border-radius: 12px;">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=F76B8A&center=true&vCenter=true&width=600&lines=Frontend+Developer;UI%2FUX+Designer;Tech+Enthusiast;Problem+Solver+%F0%9F%A4%9E;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
-</p>
+  <!-- Left Content -->
+  <div style="flex: 1; min-width: 280px; padding: 10px;">
+    <h2 style="color: #d946ef; font-family: 'Fira Code', monospace; font-weight: bold;">
+      💻 A Creative Coder, UI/UX Designer & Lifelong Learner
+    </h2>
+    <hr style="border: 1px solid #d946ef; margin: 10px 0;">
+    <p style="color: #e5e7eb; font-size: 15px; line-height: 1.6;">
+      🎓 I'm <strong>Sweta Kadam</strong>, a passionate frontend developer and design enthusiast.<br>
+      💡 Currently exploring web development, UI/UX design, and building real-world projects.<br>
+      🌱 Love combining code and creativity to bring ideas to life.<br>
+      📬 Email: <a href="mailto:your-email@example.com" style="color: #a5b4fc;">your-email@example.com</a>
+    </p>
+  </div>
 
-<!-- Profile Image -->
-<p align="center">
-  <img src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?semt=ais_items_boosted&w=740" alt="Sweta Kadam" width="200" style="border-radius: 50%;">
-</p>
+  <!-- Right Image -->
+  <div style="flex: 1; min-width: 220px; text-align: center;">
+    <img src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?semt=ais_items_boosted&w=740" alt="Sweta Kadam Avatar" width="220" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
+  </div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- Social Badge -->
 <p align="center">
