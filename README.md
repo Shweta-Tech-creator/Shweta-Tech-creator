@@ -195,7 +195,7 @@
    "The beautiful thing about learning is that no one can take it away from you."                                                                                                                                                                                                                                                                                               <span style="display: inline-block; margin-top: 10px; font-size: 18px; color: #6A82FB;">— B.B. King</span>
   </p>
 </div>
-### 🐍 Watch my contributions snake
+🐍 Watch my contributions 
 
 ![snake gif](https://github.com/Shweta-Tech-creator/Shweta-Tech-creator/blob/output/snake.svg)
 
