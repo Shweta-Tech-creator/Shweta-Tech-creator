@@ -59,25 +59,7 @@
   Hi! I’m Sweta Kadam, a passionate **Frontend Developer** and **UI/UX Designer** who loves turning ideas into beautiful, user-friendly digital experiences. As a B.Tech first-year student, I'm blending creativity with code to build intuitive, responsive websites and applications.
 </p>
 
-<h2 align="center">📚 <span style="background: linear-gradient(90deg, #F76B8A, #FF61A6); -webkit-background-clip: text; color: transparent;">Currently Learning & Exploring</span></h2>
-<p style="
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  font-size: 18px;
-  color: #D4D4F7;
-  line-height: 1.6;
-  text-align: center;
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 0 20px;
-">
-  I'm always excited to expand my knowledge and dive into new technologies! Currently, I'm sharpening my skills in:
-  <br/><br/>
-  <p align="center">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=282C34" alt="ReactJS"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=333" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=333" alt="MongoDB"/>
-    <img src="https://img.shields.io/badge/DSA-blueviolet?style=for-the-badge&logoColor=white&labelColor=333" alt="DSA"/>
-  </p>
+
   <br/>
   Additionally:
   <br/>
