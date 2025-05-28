@@ -56,7 +56,7 @@
   margin: 0 auto;
   padding: 0 20px;
 ">
-  Hi! I’m Sweta Kadam, a passionate **Frontend Developer** and **UI/UX Designer** who loves turning ideas into beautiful, user-friendly digital experiences. As a B.Tech first-year student, I'm blending creativity with code to build intuitive, responsive websites and applications.
+  Hi! I’m Sweta Kadam, A passionate learner driven by curiosity and a love for building and improving every day., user-friendly digital experiences. As a B.Tech first-year student, I'm blending creativity with code to build intuitive, responsive websites and applications.
 </p>
 
 
