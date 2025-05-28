@@ -197,7 +197,7 @@
 </div>
 ### 🐍 Watch my contributions snake
 
-![snake gif](https://github.com/Shweta-Tech-creator/Shweta-Tech-creator/blob/main/.github/workflows/snake.yml)
+![snake gif](https://github.com/Shweta-Tech-creator/Shweta-Tech-creator/blob/output/snake.svg)
 
 
 <!-- Contact Section with Glow Effect -->
