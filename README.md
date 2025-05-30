@@ -1,5 +1,3 @@
-
-
 <h1 align="center">
   <span style="
     background: linear-gradient(90deg, #F76B8A, #6A82FB, #F76B8A);
