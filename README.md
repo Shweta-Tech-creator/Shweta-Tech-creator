@@ -21,13 +21,9 @@
 </div>
 
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?w=740" alt="Sweta Kadam" width="200" style="
-    border-radius: 50%;
-    box-shadow: 0 0 25px 5px rgba(247,107,138,0.3);
-    transition: transform 0.5s ease;
-    animation: float 6s ease-in-out infinite;
-  " onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?w=740" alt="Sweta Kadam" width="200" style="border-radius: 50%; box-shadow: 0 0 25px 5px rgba(247,107,138,0.3);"/>
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sweta-kadam-5851a4323" target="_blank">
