@@ -27,13 +27,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sweta-kadam-5851a4323" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=white" alt="LinkedIn" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='translateY(-3px)'" onmouseout="this.style.transform='translateY(0)'"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Shweta-Tech-creator" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='translateY(-3px)'" onmouseout="this.style.transform='translateY(0)'"/>
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:kadamsweta92@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='translateY(-3px)'" onmouseout="this.style.transform='translateY(0)'"/>
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -41,107 +41,54 @@
   <img src="https://github.com/Shweta-Tech-creator/Shweta-Tech-creator/blob/main/assets/gradient-divider.gif?raw=true" width="100%" height="4px" alt="divider"/>
 </div>
 
-## 🌟 <span style="background: linear-gradient(90deg, #F76B8A, #6A82FB); -webkit-background-clip: text; color: transparent;">About Me</span>
-<p style="
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  font-size: 18px;
-  color: #D4D4F7;
-  line-height: 1.6;
-  text-align: center;
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 0 20px;
-">
-  Hi! I’m Sweta Kadam, A passionate learner driven by curiosity and a love for building and improving every day., user-friendly digital experiences. As a B.Tech first-year student, I'm blending creativity with code to build intuitive, responsive websites and applications.
-</p>
+## 🌟 About Me
+
+Hi! I’m **Sweta Kadam**, a passionate learner driven by curiosity and a love for building user-friendly digital experiences.  
+As a **B.Tech First-Year Student**, I'm blending creativity with code to build intuitive, responsive websites and applications.
+
+- 🔭 Actively building projects that challenge my understanding and hone my practical skills.  
+- 💡 Deepening my passion for **Responsive Design** and creating seamless **User Experiences**.  
+- 🎯 Driven by a desire for continuous growth and solving real-world problems with code. 
 
 
-  <br/>
-  Additionally:
-  <br/>
-  🔭 Actively building projects that challenge my understanding and hone my practical skills.
-  <br/>
-  💡 Deepening my passion for **Responsive Design** and creating seamless **User Experiences**.
-  <br/>
-  🎯 Driven by a desire for continuous growth and solving real-world problems with code.
-</p>
 
+## 🛠 Technical Skills
 
-<div align="center">
-  <h2>🛠 <span style="background: linear-gradient(90deg, #6A82FB, #F76B8A); -webkit-background-clip: text; color: transparent;">Technical Skills</span></h2>
-  
-  <h3 align="left">💻 Programming Languages</h3>
-  <p align="left">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  </p>
-  
-  <h3 align="left">🌐 Web Development</h3>
-  <p align="left">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  </p>
-  
-  <h3 align="left">🔧 Tools & Platforms</h3>
-  <p align="left">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  </p>
-</div>
+### 💻 Programming Languages  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-<h2 align="center">🚀 <span style="background: linear-gradient(90deg, #F76B8A, #6A82FB); -webkit-background-clip: text; color: transparent;">Featured Projects</span></h2>
+### 🌐 Web Development  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
-  <div style="
-    background: linear-gradient(145deg, #1e1e2e, #2a2a3a);
-    border-radius: 15px;
-    padding: 20px;
-    width: 300px;
-    box-shadow: 0 10px 20px rgba(0,0,0,0.2);
-    transition: transform 0.3s ease;
-    border-left: 4px solid #F76B8A;
-  " onmouseover="this.style.transform='translateY(-10px)'" onmouseout="this.style.transform='translateY(0)'">
-    <h3 style="color: #F76B8A; margin-top: 0;">Buildhathon 4.0 Website</h3>
-    <p style="color: #D4D4F7; font-size: 0.95rem;">
-      An interactive landing page featuring animated sections, modals, and a **fully responsive design**. This project allowed me to solidify my **HTML5 & CSS3** skills.
-    </p>
-  </div>
-  
-  <div style="
-    background: linear-gradient(145deg, #1e1e2e, #2a2a3a);
-    border-radius: 15px;
-    padding: 20px;
-    width: 300px;
-    box-shadow: 0 10px 20px rgba(0,0,0,0.2);
-    transition: transform 0.3s ease;
-    border-left: 4px solid #6A82FB;
-  " onmouseover="this.style.transform='translateY(-10px)'" onmouseout="this.style.transform='translateY(0)'">
-    <h3 style="color: #6A82FB; margin-top: 0;">To-Do List Web App</h3>
-    <p style="color: #D4D4F7; font-size: 0.95rem;">
-      A dynamic productivity app with **local storage persistence**, task categorization, and a **dark mode toggle**. Enhanced my **JavaScript DOM manipulation** and logical thinking.
-    </p>
-  </div>
-  
-  <div style="
-    background: linear-gradient(145deg, #1e1e2e, #2a2a3a);
-    border-radius: 15px;
-    padding: 20px;
-    width: 300px;
-    box-shadow: 0 10px 20px rgba(0,0,0,0.2);
-    transition: transform 0.3s ease;
-    border-left: 4px solid #FF61A6;
-  " onmouseover="this.style.transform='translateY(-10px)'" onmouseout="this.style.transform='translateY(0)'">
-    <h3 style="color: #FF61A6; margin-top: 0;">Portfolio Website</h3>
-    <p style="color: #D4D4F7; font-size: 0.95rem;">
-      My personal showcase, built from scratch with **animated sections**, a project gallery, and a working contact form. Applied **UI/UX principles** and design intuition.
-    </p>
-</div>
+### 🔧 Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Buildhathon 4.0 Website  
+A responsive landing page featuring animated sections, modals, and interactive UI.  
+**Tech:** HTML5, CSS3
+
+### 🔹 To-Do List Web App  
+A productivity app with local storage, dark mode, and categorized tasks.  
+**Tech:** HTML, CSS, JavaScript
+
+### 🔹 Portfolio Website  
+My personal portfolio built from scratch with custom animations and contact form.  
+**Tech:** HTML, CSS, JavaScript, UI/UX Principles
+
+---
 
 <h2 align="center">📊 <span style="background: linear-gradient(90deg, #6A82FB, #F76B8A); -webkit-background-clip: text; color: transparent;">GitHub Analytics</span></h2>
 
@@ -198,57 +145,26 @@
 </div>
 🐍 Watch my contributions 
 
-![snake gif](https://github.com/Shweta-Tech-creator/Shweta-Tech-creator/blob/output/snake.svg)
+  ![snake gif](https://github.com/Shweta-Tech-creator/Shweta-Tech-creator/blob/output/snake.svg)
 
 
-<h2 align="center">📬 <span style="background: linear-gradient(90deg, #F76B8A, #6A82FB); -webkit-background-clip: text; color: transparent;">Let's Connect!</span></h2>
-<p align="center" style="color: #D4D4F7; font-size: 1.1rem; margin-bottom: 25px;">
-  Eager to collaborate on exciting projects or discuss all things tech!
+
+## 💬 Let's Connect
+
+Feel free to connect with me and collaborate on exciting tech projects!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sweta-kadam-5851a4323" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Shweta-Tech-creator" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:kadamsweta92@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
-<div align="center" style="
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 15px;
-  margin: 30px 0;
-">
-  <a href="mailto:kadamsweta92@gmail.com" style="
-    background: linear-gradient(145deg, #F76B8A, #FF61A6);
-    color: white;
-    padding: 12px 25px;
-    border-radius: 50px;
-    text-decoration: none;
-    font-weight: bold;
-    transition: all 0.3s ease;
-    box-shadow: 0 5px 15px rgba(247,107,138,0.3);
-  " onmouseover="this.style.transform='translateY(-3px)'; this.style.boxShadow='0 8px 20px rgba(247,107,138,0.5)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 5px 15px rgba(247,107,138,0.3)'">
-    ✉️ Email Me
-  </a>
-  
-  <a href="https://www.linkedin.com/in/sweta-kadam-5851a4323" target="_blank" style="
-    background: linear-gradient(145deg, #6A82FB, #7B90FF);
-    color: white;
-    padding: 12px 25px;
-    border-radius: 50px;
-    text-decoration: none;
-    font-weight: bold;
-    transition: all 0.3s ease;
-    box-shadow: 0 5px 15px rgba(106,130,251,0.3);
-  " onmouseover="this.style.transform='translateY(-3px)'; this.style.boxShadow='0 8px 20px rgba(106,130,251,0.5)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 5px 15px rgba(106,130,251,0.3)'">
-    💼 LinkedIn
-  </a>
-  
-  <a href="https://github.com/Shweta-Tech-creator" target="_blank" style="
-    background: linear-gradient(145deg, #333, #555);
-    color: white;
-    padding: 12px 25px;
-    border-radius: 50px;
-    text-decoration: none;
-    font-weight: bold;
-    transition: all 0.3s ease;
-    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
-  " onmouseover="this.style.transform='translateY(-3px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.3)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 5px 15px rgba(0,0,0,0.2)'">
-    🐱 GitHub
-  </a>
-</div>
+---
+
+<p align="center"><strong>✨ Keep learning. Keep building. Keep growing. ✨</strong></p>
