@@ -51,9 +51,6 @@ As a **B.Tech First-Year Student**, I'm blending creativity with code to build i
 - 🎯 Driven by a desire for continuous growth and solving real-world problems with code. 
 
 
-
-## 🛠 Technical Skills
-
 <div align="center">
   <h2>🛠 <span style="background: linear-gradient(90deg, #6A82FB, #F76B8A); -webkit-background-clip: text; color: transparent;">Technical Skills</span></h2>
   
