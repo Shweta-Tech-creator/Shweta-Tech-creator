@@ -82,21 +82,6 @@ As a **B.Tech First-Year Student**, I'm blending creativity with code to build i
   </p>
 </div>
 
-
-## 🚀 Featured Projects
-
-### 🔹 Buildhathon 4.0 Website  
-A responsive landing page featuring animated sections, modals, and interactive UI.  
-**Tech:** HTML5, CSS3
-
-### 🔹 To-Do List Web App  
-A productivity app with local storage, dark mode, and categorized tasks.  
-**Tech:** HTML, CSS, JavaScript
-
-### 🔹 Portfolio Website  
-My personal portfolio built from scratch with custom animations and contact form.  
-**Tech:** HTML, CSS, JavaScript, UI/UX Principles
-
 ---
 
 <h2 align="center">📊 <span style="background: linear-gradient(90deg, #6A82FB, #F76B8A); -webkit-background-clip: text; color: transparent;">GitHub Analytics</span></h2>
