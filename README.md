@@ -44,7 +44,7 @@
 ## 🌟 About Me
 
 Hi! I’m **Sweta Kadam**, a passionate learner driven by curiosity and a love for building user-friendly digital experiences.  
-As a **B.Tech First-Year Student**, I'm blending creativity with code to build intuitive, responsive websites and applications.
+As a **B.Tech Second-Year Student**, I'm blending creativity with code to build intuitive, responsive websites and applications.
 
 - 🔭 Actively building projects that challenge my understanding and hone my practical skills.  
 - 💡 Deepening my passion for **Responsive Design** and creating seamless **User Experiences**.  
