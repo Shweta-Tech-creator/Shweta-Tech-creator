@@ -5,21 +5,34 @@
 
 <br />
 
-<table width="100%">
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=2&section=header" />
+</div>
+
+<table width="100%" border="0">
   <tr>
-    <td width="60%" valign="center">
-      <h3 align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=F76B8A&center=true&vCenter=true&width=600&height=100&lines=Frontend+Developer+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+MongoDB;Problem+Solver+%F0%9F%A7%A9;Continuous+Learner+%F0%9F%93%9A" alt="Typing SVG" />
-      </h3>
+    <td width="55%" valign="top">
+      <br/>
+      <h2 align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=F76B8A&center=true&vCenter=true&width=650&height=120&lines=👋+Hey!+I'm+a+Frontend+Developer;💻+Building+with+React+%26+Node.js;🎨+Crafting+Beautiful+UI%2FUX;🚀+Full+Stack+Enthusiast;🧩+Problem+Solver+%26+Creator;📚+Forever+Learning" alt="Typing SVG" />
+      </h2>
+      <br/>
       <p align="center">
         <img src="https://komarev.com/ghpvc/?username=Shweta-Tech-creator&label=Profile%20Views&color=F76B8A&style=for-the-badge" alt="Profile Views" />
+        <img src="https://img.shields.io/github/followers/Shweta-Tech-creator?label=Followers&style=for-the-badge&color=6A82FB&logo=github" alt="GitHub Followers" />
       </p>
     </td>
-    <td width="40%" valign="center">
-      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding GIF" />
+    <td width="45%" valign="center">
+      <br/>
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Coding Animation" />
+      <br/>
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=2&section=header" />
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sweta-kadam-5851a4323" target="_blank">
