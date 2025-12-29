@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="./header.svg" width="100%" alt="Header animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=40&duration=3000&pause=1000&color=F76B8A&center=true&vCenter=true&width=800&height=100&lines=✨+Hello+World!+I'm+Sweta+Kadam+✨;Frontend+Developer+|+UI/UX+Designer;Building+User-Friendly+Digital+Experiences" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=500&color=F76B8A&center=true&vCenter=true&width=650&height=80&lines=Frontend+Developer+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Full+Stack+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A4%96;Continuous+Learner+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=6A82FB&center=true&vCenter=true&width=650&height=60&lines=Frontend+Developer+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Full+Stack+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A4%96;Continuous+Learner+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -95,21 +95,15 @@ As a **B.Tech Second-Year Student**, I'm blending creativity with code to build 
 <h2 align="center">📊 <span style="background: linear-gradient(90deg, #6A82FB, #F76B8A); -webkit-background-clip: text; color: transparent;">GitHub Analytics</span></h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Shweta-Tech-creator&show_icons=true&theme=radical&border_color=6A82FB&bg_color=0D1117&title_color=F76B8A&icon_color=6A82FB" alt="GitHub Stats" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shweta-Tech-creator&theme=radical&border_color=6A82FB&background=0D1117&stroke=F76B8A" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shweta-Tech-creator&layout=compact&theme=radical&border_color=6A82FB&bg_color=0D1117&title_color=F76B8A" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Shweta-Tech-creator&show_icons=true&theme=radical&border_color=6A82FB&bg_color=0D1117&title_color=F76B8A&icon_color=6A82FB" alt="GitHub Stats" />
+  </p>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shweta-Tech-creator&theme=radical&border_color=6A82FB&background=0D1117&stroke=F76B8A" alt="GitHub Streak" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shweta-Tech-creator&layout=compact&theme=radical&border_color=6A82FB&bg_color=0D1117&title_color=F76B8A" alt="Top Languages" />
+  </p>
 </div>
 <h4 align="center">
   
