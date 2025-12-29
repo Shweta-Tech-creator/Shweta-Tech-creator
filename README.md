@@ -3,117 +3,193 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,F76B8A,6A82FB&height=250&section=header&text=Sweta%20Kadam&fontSize=80&fontAlign=50&fontAlignY=35&desc=Turning%20Coffee%20Into%20Code%20☕&descAlign=50&descAlignY=60&descSize=25&animation=fadeIn" width="100%" alt="Header" />
 </div>
 
-<!-- Typing Bio & Socials -->
 <div align="center">
-  <a href="https://linkedin.com/in/sweta-kadam-5851a4323">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=6A82FB&center=true&vCenter=true&width=650&height=60&lines=Frontend+Developer+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Full+Stack+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A4%96;Continuous+Learner+%F0%9F%93%9A" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sweta-kadam-5851a4323" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/Shweta-Tech-creator">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/Shweta-Tech-creator" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:kadamsweta92@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:kadamsweta92@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://github.com/Shweta-Tech-creator/Shweta-Tech-creator/blob/main/assets/gradient-divider.gif?raw=true" width="100%" height="4px" alt="divider"/>
+</div>
+
+## 🌟 About Me
+
+Hi! I'm **Sweta Kadam**, a passionate learner driven by curiosity and a love for building user-friendly digital experiences.  
+As a **B.Tech Second-Year Student**, I'm blending creativity with code to build intuitive, responsive websites and applications.
+
+- 🔭 Actively building projects that challenge my understanding and hone my practical skills.  
+- 💡 Deepening my passion for **Full Stack Development** and creating seamless **User Experiences**.  
+- 🎯 Driven by a desire for continuous growth and solving real-world problems with code. 
+
+
+<div align="center">
+  <h2>🛠 <span style="background: linear-gradient(90deg, #6A82FB, #F76B8A); -webkit-background-clip: text; color: transparent;">Technical Skills</span></h2>
+  
+  <h3 align="left">💻 Programming Languages</h3>
+  <p align="left">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+     <img src="https://img.shields.io/badge/NoSQL-4479A1?style=for-the-badge&logo=mongodb&logoColor=white"/>
+     <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  </p>
+  
+  <h3 align="left">🌐 Web Development & Frameworks</h3>
+  <p align="left">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  </p>
+  
+   <h3 align="left">🗄️ Databases & Cloud</h3>
+  <p align="left">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  </p>
+
+  <h3 align="left">🔧 Tools & Platforms</h3>
+  <p align="left">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  </p>
+</div>
+
+---
+
+<h2 align="center">🚀 <span style="background: linear-gradient(90deg, #F76B8A, #6A82FB); -webkit-background-clip: text; color: transparent;">Featured Projects</span></h2>
+
+<div align="center">
+
+| **Project** | **Description** |
+| :--- | :--- |
+| **🎬 SceneSync** | Collaborative script editor & storyboard canvas with real-time sync and AI scene analysis. |
+| **🎓 Externship** | Integrated internship portal for efficient application tracking and admin management. |
+| **🔗 LinkOrbit** | Social media aggregator to schedule posts and centralize interactions across platforms. |
+| **🐾 Petzz** | Complete pet care platform for health records, appointments, and document management. |
+
+</div>
+
+---
+
+<h2 align="center">🏆 Achievements & Analytics</h2>
+
+<div align="center">
+  <!-- Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Shweta-Tech-creator&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
   </a>
 </div>
 
-<br />
+<br/>
 
-<!-- Animated Terminal Bio -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F76B8A&center=true&vCenter=true&width=800&height=70&lines=Frontend+Developer+|+UI/UX+Designer;Building+Interactive+Web+Experiences;Currently+Learning+Three.js+&+Advanced+React" alt="Typing SVG" />
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Shweta-Tech-creator&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F76B8A&icon_color=6A82FB&include_all_commits=true" alt="GitHub Stats" />
+  </p>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shweta-Tech-creator&theme=radical&hide_border=true&background=0D1117&stroke=F76B8A" alt="GitHub Streak" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shweta-Tech-creator&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F76B8A" alt="Top Languages" />
+  </p>
 </div>
 
+<h4 align="center">
+  
+```diff
++---------------------------------+        +---------------------------------+     +---------------------------------+
+████████╗██╗  ██╗██╗███╗   ██╗██╗  ██╗        ██████╗ ██████╗ ██████╗ ███████╗       ██████╗ ██╗   ██╗██╗██╗     ██████╗    
+╚══██╔══╝██║  ██║██║████╗  ██║██║ ██╔╝       ██╔════╝██╔═══██╗██╔══██╗██╔════╝       ██╔══██╗██║   ██║██║██║     ██╔══██╗   
+   ██║   ███████║██║██╔██╗ ██║█████╔╝        ██║     ██║   ██║██║  ██║█████╗         ██████╔╝██║   ██║██║██║     ██║  ██║   
+   ██║   ██╔══██║██║██║╚██╗██║██╔═██╗        ██║     ██║   ██║██║  ██║██╔══╝         ██╔══██╗██║   ██║██║██║     ██║  ██║   
+   ██║   ██║  ██║██║██║ ╚████║██║  ██╗██╗    ╚██████╗╚██████╔╝██████╔╝███████╗██╗    ██████╔╝╚██████╔╝██║███████╗██████╔╝██╗
+   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝     ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝╚═╝    ╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝ ╚═╝
++---------------------------------+        +---------------------------------+      +---------------------------------+
+```
+</h4>
+
+<h2 align="center">🔥 <span style="background: linear-gradient(90deg, #F76B8A, #6A82FB); -webkit-background-clip: text; color: transparent;">Contribution Graph</span></h2>
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shweta-Tech-creator&label=Profile%20Views&color=F76B8A&style=for-the-badge" alt="Profile Views" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shweta-Tech-creator&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&area_color=F76B8A&line=6A82FB&point=F76B8A" alt="Activity Graph" width="90%" style="border-radius: 10px;"/>
 </div>
 
-<br />
+<h2 align="center">🧩 Fun Zone</h2>
 
-<!-- Tech Stack -->
-<h2 align="center">⚡ Tech Stack & Arsenal</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,python,java,mysql,mongodb,firebase,git,github,vscode,figma,cpp&perline=7" />
-</div>
-
-<br />
-
-<!-- GitHub Stats (Glassmorphism Style) -->
-<h2 align="center">📊 GitHub Analytics</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shweta-Tech-creator&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F76B8A&icon_color=6A82FB&include_all_commits=true&count_private=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shweta-Tech-creator&theme=radical&hide_border=true&background=0D1117&stroke=F76B8A" height="180" alt="streak graph"  />
-</div>
-
-<br />
-
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shweta-Tech-creator&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&area_color=F76B8A&line=6A82FB&point=F76B8A" width="100%" />
-</div>
-
-<br />
-
-<!-- Animated Contribution Snake -->
-<h2 align="center">🐍 Contribution Snake</h2>
-<div align="center">
+  <!-- Snake -->
   <img src="https://github.com/Shweta-Tech-creator/Shweta-Tech-creator/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Snake Animation" width="100%" />
 </div>
 
 <br />
 
-<!-- Projects Section (Cards) -->
-<h2 align="center">🚀 Featured Projects</h2>
-<table align="center">
-  <tr>
-    <td width="300">
-      <h3 align="center">🎬 SceneSync</h3>
-      <div align="center">
-        <img src="https://img.icons8.com/color/48/000000/clapperboard.png" width="40" />
-      </div>
-      <p align="center">Collaborative Script Editor with AI Scene Breakdown.</p>
-      <div align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat&logo=google&logoColor=white" />
-      </div>
-    </td>
-    <td width="300">
-      <h3 align="center">🎓 Externship</h3>
-      <div align="center">
-        <img src="https://img.icons8.com/color/48/000000/student-center.png" width="40" />
-      </div>
-      <p align="center">Internship portal for application tracking & admin management.</p>
-      <div align="center">
-         <img src="https://img.shields.io/badge/MERN-000000?style=flat&logo=mongodb&logoColor=white" />
-      </div>
-    </td>
-  </tr>
-  <tr>
-     <td width="300">
-      <h3 align="center">🔗 LinkOrbit</h3>
-      <div align="center">
-        <img src="https://img.icons8.com/color/48/000000/share-3.png" width="40" />
-      </div>
-      <p align="center">Social Media Aggregator for cross-platform management.</p>
-      <div align="center">
-         <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white" />
-      </div>
-    </td>
-    <td width="300">
-      <h3 align="center">🐾 Petzz Area</h3>
-      <div align="center">
-        <img src="https://img.icons8.com/color/48/000000/dog.png" width="40" />
-      </div>
-      <p align="center">Comprehensive Pet Care & Appointment System.</p>
-      <div align="center">
-         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-      </div>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h3>😂 Daily Dev Joke</h3>
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
+</div>
 
-<br />
+<h2 align="center">💭 <span style="background: linear-gradient(90deg, #6A82FB, #F76B8A); -webkit-background-clip: text; color: transparent;">Words to Code By</span></h2>
 
-<!-- Footer -->
+<div align="center" style="
+  background: linear-gradient(145deg, #1e1e2e, #2a2a3a);
+  border-radius: 15px;
+  padding: 20px;
+  max-width: 700px;
+  margin: 0 auto;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+  border-left: 4px solid #F76B8A;
+  border-right: 4px solid #6A82FB;
+">
+  <p style="
+    font-family: 'Georgia', serif;
+    font-size: 22px;
+    font-style: italic;
+    color: #D4D4F7;
+    line-height: 1.6;
+    text-align: center;
+  ">
+   "The beautiful thing about learning is that no one can take it away from you."
+   <span style="display: inline-block; margin-top: 10px; font-size: 18px; color: #6A82FB;">— B.B. King</span>
+  </p>
+</div>
+
+## 💬 Let's Connect
+
+Feel free to connect with me and collaborate on exciting tech projects!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sweta-kadam-5851a4323" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Shweta-Tech-creator" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:kadamsweta92@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center"><strong>✨ Keep learning. Keep building. Keep growing. ✨</strong></p>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,6A82FB,F76B8A&height=100&section=footer" width="100%" />
 </div>
