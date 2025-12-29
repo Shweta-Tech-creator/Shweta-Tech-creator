@@ -1,176 +1,184 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=40&duration=3000&pause=1000&color=F76B8A&center=true&vCenter=true&width=800&height=100&lines=✨+Hello+World!+I'm+Sweta+Kadam+✨;Frontend+Developer+|+UI/UX+Designer;Building+User-Friendly+Digital+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=36&duration=3000&pause=1000&color=F76B8A&background=00000000&center=true&vCenter=true&width=800&height=100&lines=✨+Hello+World!+I'm+Sweta+Kadam;Creative+Frontend+Developer;UI%2FUX+Enthusiast;Building+Web+Experiences" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=6A82FB&center=true&vCenter=true&width=650&height=60&lines=Frontend+Developer+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Full+Stack+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A4%96;Continuous+Learner+%F0%9F%93%9A" alt="Typing SVG" />
-</div>
-
-<p align="center">
-  <img src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?w=740" alt="Sweta Kadam" width="200" style="border-radius: 50%; box-shadow: 0 0 25px 5px rgba(247,107,138,0.3);"/>
-</p>
-
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sweta-kadam-5851a4323" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://linkedin.com/in/sweta-kadam-5851a4323">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/Shweta-Tech-creator" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/Shweta-Tech-creator">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:kadamsweta92@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:kadamsweta92@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
+</div>
+
+<br />
 
 <div align="center">
-  <img src="https://github.com/Shweta-Tech-creator/Shweta-Tech-creator/blob/main/assets/gradient-divider.gif?raw=true" width="100%" height="4px" alt="divider"/>
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h2 align="center">👩‍💻 About Me</h2>
+        <br />
+        <p>
+          I'm <b>Sweta Kadam</b>, a <b>B.Tech Second-Year Student</b> with a passion for turning ideas into pixel-perfect reality.
+        </p>
+        <p>
+          🔭 <b>Currently working on:</b> Interactive web apps & Design Systems.<br>
+          🌱 <b>Learning:</b> Advanced React Patterns & 3D Web (Three.js).<br>
+          ⚡ <b>Fun Fact:</b> I treat CSS like digital painting.
+        </p>
+        <p align="center">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shweta-Tech-creator&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F76B8A" alt="Top Langs" />
+        </p>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90%" style="border-radius: 10px;" alt="Coding Gif" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-## 🌟 About Me
-
-Hi! I’m **Sweta Kadam**, a passionate learner driven by curiosity and a love for building user-friendly digital experiences.  
-As a **B.Tech Second-Year Student**, I'm blending creativity with code to build intuitive, responsive websites and applications.
-
-- 🔭 Actively building projects that challenge my understanding and hone my practical skills.  
-- 💡 Deepening my passion for **Full Stack Development** and creating seamless **User Experiences**.  
-- 🎯 Driven by a desire for continuous growth and solving real-world problems with code. 
-
+<h2 align="center">🛠 Tech Stack</h2>
 
 <div align="center">
-  <h2>🛠 <span style="background: linear-gradient(90deg, #6A82FB, #F76B8A); -webkit-background-clip: text; color: transparent;">Technical Skills</span></h2>
-  
-  <h3 align="left">💻 Programming Languages</h3>
-  <p align="left">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-     <img src="https://img.shields.io/badge/NoSQL-4479A1?style=for-the-badge&logo=mongodb&logoColor=white"/>
-     <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-  </p>
-  
-  <h3 align="left">🌐 Web Development & Frameworks</h3>
-  <p align="left">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  </p>
-  
-   <h3 align="left">🗄️ Databases & Cloud</h3>
-  <p align="left">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  </p>
-
-  <h3 align="left">🔧 Tools & Platforms</h3>
-  <p align="left">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  </p>
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="120">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+        <br>React
+      </td>
+      <td align="center" width="120">
+         <img src="https://skillicons.dev/icons?i=html,css" alt="icon" height="50" />
+         <br>HTML/CSS
+      </td>
+      <td align="center" width="120">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+        <br>Python
+      </td>
+      <td align="center" width="120">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+        <br>Java
+      </td>
+      <td align="center" width="120">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+        <br>MySQL
+      </td>
+    </tr>
+     <tr>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=git" alt="icon" width="50" height="50" />
+        <br>Git
+      </td>
+       <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="50" height="50" />
+        <br>Figma
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=cpp" alt="icon" width="50" height="50" />
+        <br>C++
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="50" height="50" />
+        <br>MongoDB
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=firebase" alt="icon" width="50" height="50" />
+        <br>Firebase
+      </td>
+       <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=vscode" alt="icon" width="50" height="50" />
+        <br>VS Code
+      </td>
+    </tr>
+  </table>
 </div>
 
----
+<br />
 
-<h2 align="center">🚀 <span style="background: linear-gradient(90deg, #F76B8A, #6A82FB); -webkit-background-clip: text; color: transparent;">Featured Projects</span></h2>
+<h2 align="center">🚀 Featured Projects</h2>
 
 <div align="center">
-
-| **Project** | **Description** |
-| :--- | :--- |
-| **🎬 SceneSync** | Collaborative script editor & storyboard canvas with real-time sync and AI scene analysis. |
-| **🎓 Externship** | Integrated internship portal for efficient application tracking and admin management. |
-| **🔗 LinkOrbit** | Social media aggregator to schedule posts and centralize interactions across platforms. |
-| **🐾 Petzz** | Complete pet care platform for health records, appointments, and document management. |
-
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🎬 SceneSync</h3>
+      <p><i>Collaborative Script Editor & Storyboard</i></p>
+      <p>Real-time collaboration, AI Scene Analysis (Gemini), and interactive drawing canvas.</p>
+       <p>
+        <a href="#">
+          <img src="https://img.shields.io/badge/Demo-Live-FF61A6?style=flat-square&logo=google-chrome&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" align="center">
+      <h3>🎓 Externship</h3>
+      <p><i>Internship Management Portal</i></p>
+      <p>Connects students with opportunities. Features application tracking, resume uploads, and admin dashboards.</p>
+      <p>
+        <a href="#">
+          <img src="https://img.shields.io/badge/Demo-Live-6A82FB?style=flat-square&logo=google-chrome&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+     <td width="50%" align="center">
+      <h3>🔗 LinkOrbit</h3>
+      <p><i>Social Media Aggregator</i></p>
+      <p>Unified dashboard for scheduling posts and managing comments across Instagram, FB, and Twitter.</p>
+      <p>
+        <a href="#">
+           <img src="https://img.shields.io/badge/Demo-Live-FF61A6?style=flat-square&logo=google-chrome&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" align="center">
+      <h3>🐾 Petzz Area</h3>
+      <p><i>Complete Pet Care Platform</i></p>
+      <p>Manage health records, book vet appointments, and track upcoming vaccinations.</p>
+      <p>
+        <a href="#">
+           <img src="https://img.shields.io/badge/Demo-Live-6A82FB?style=flat-square&logo=google-chrome&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 </div>
 
----
+<br />
 
-<h2 align="center">📊 <span style="background: linear-gradient(90deg, #6A82FB, #F76B8A); -webkit-background-clip: text; color: transparent;">GitHub Analytics</span></h2>
+<h2 align="center">⚡ Stats & Fun Corner</h2>
 
 <div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Shweta-Tech-creator&show_icons=true&theme=radical&border_color=6A82FB&bg_color=0D1117&title_color=F76B8A&icon_color=6A82FB" alt="GitHub Stats" />
-  </p>
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shweta-Tech-creator&theme=radical&border_color=6A82FB&background=0D1117&stroke=F76B8A" alt="GitHub Streak" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shweta-Tech-creator&layout=compact&theme=radical&border_color=6A82FB&bg_color=0D1117&title_color=F76B8A" alt="Top Languages" />
-  </p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shweta-Tech-creator&theme=radical&hide_border=true&background=0D1117&stroke=F76B8A" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shweta-Tech-creator&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F76B8A&icon_color=6A82FB&include_all_commits=true" alt="GitHub Stats" />
 </div>
-<h4 align="center">
-  
-```diff
-+---------------------------------+        +---------------------------------+     +---------------------------------+
-████████╗██╗  ██╗██╗███╗   ██╗██╗  ██╗        ██████╗ ██████╗ ██████╗ ███████╗       ██████╗ ██╗   ██╗██╗██╗     ██████╗    
-╚══██╔══╝██║  ██║██║████╗  ██║██║ ██╔╝       ██╔════╝██╔═══██╗██╔══██╗██╔════╝       ██╔══██╗██║   ██║██║██║     ██╔══██╗   
-   ██║   ███████║██║██╔██╗ ██║█████╔╝        ██║     ██║   ██║██║  ██║█████╗         ██████╔╝██║   ██║██║██║     ██║  ██║   
-   ██║   ██╔══██║██║██║╚██╗██║██╔═██╗        ██║     ██║   ██║██║  ██║██╔══╝         ██╔══██╗██║   ██║██║██║     ██║  ██║   
-   ██║   ██║  ██║██║██║ ╚████║██║  ██╗██╗    ╚██████╗╚██████╔╝██████╔╝███████╗██╗    ██████╔╝╚██████╔╝██║███████╗██████╔╝██╗
-   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝     ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝╚═╝    ╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝ ╚═╝
-+---------------------------------+        +---------------------------------+      +---------------------------------+
-```
-</h4>
 
-<h2 align="center">🔥 <span style="background: linear-gradient(90deg, #F76B8A, #6A82FB); -webkit-background-clip: text; color: transparent;">Contribution Graph</span></h2>
+<br />
+
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://github.com/Shweta-Tech-creator/Shweta-Tech-creator/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Snake Animation" width="100%" />
+</div>
+
+<br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shweta-Tech-creator&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&area_color=F76B8A&line=6A82FB&point=F76B8A" alt="Activity Graph" width="90%" style="border-radius: 10px;"/>
+  <h3>😂 Random Dev Joke</h3>
+  <img src="https://readme-jokes.vercel.app/api?theme=dark&background=0D1117" alt="Jokes Card" />
 </div>
 
-<h2 align="center">💭 <span style="background: linear-gradient(90deg, #6A82FB, #F76B8A); -webkit-background-clip: text; color: transparent;">Words to Code By</span></h2>
+<br />
 
-<div align="center" style="
-  background: linear-gradient(145deg, #1e1e2e, #2a2a3a);
-  border-radius: 15px;
-  padding: 20px;
-  max-width: 700px;
-  margin: 0 auto;
-  box-shadow: 0 10px 20px rgba(0,0,0,0.2);
-  border-left: 4px solid #F76B8A;
-  border-right: 4px solid #6A82FB;
-">
-  <p style="
-    font-family: 'Georgia', serif;
-    font-size: 22px;
-    font-style: italic;
-    color: #D4D4F7;
-    line-height: 1.6;
-    text-align: center;
-  ">
-   "The beautiful thing about learning is that no one can take it away from you."
-   <span style="display: inline-block; margin-top: 10px; font-size: 18px; color: #6A82FB;">— B.B. King</span>
-  </p>
-</div>
 <div align="center">
-<img src="https://github.com/Shweta-Tech-creator/Shweta-Tech-creator/blob/output/snake.svg" alt="snake gif" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,F76B8A,6A82FB&height=100&section=footer" width="100%" />
 </div>
-
-
-
-## 💬 Let's Connect
-
-Feel free to connect with me and collaborate on exciting tech projects!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sweta-kadam-5851a4323" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Shweta-Tech-creator" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:kadamsweta92@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center"><strong>✨ Keep learning. Keep building. Keep growing. ✨</strong></p>
