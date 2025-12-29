@@ -155,26 +155,52 @@
 
 <br />
 
-<h2 align="center">⚡ Stats & Fun Corner</h2>
+<h2 align="center">🏆 Achievements & Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shweta-Tech-creator&theme=radical&hide_border=true&background=0D1117&stroke=F76B8A" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Shweta-Tech-creator&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F76B8A&icon_color=6A82FB&include_all_commits=true" alt="GitHub Stats" />
+  <!-- Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Shweta-Tech-creator&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  </a>
 </div>
 
-<br />
+<br/>
 
-<!-- Snake Animation -->
 <div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Shweta-Tech-creator&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F76B8A&icon_color=6A82FB&include_all_commits=true" alt="GitHub Stats" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shweta-Tech-creator&theme=radical&hide_border=true&background=0D1117&stroke=F76B8A" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<h2 align="center">🧩 Fun Zone</h2>
+
+<div align="center">
+  <!-- Snake -->
   <img src="https://github.com/Shweta-Tech-creator/Shweta-Tech-creator/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Snake Animation" width="100%" />
 </div>
 
 <br />
 
 <div align="center">
-  <h3>😂 Random Dev Joke</h3>
-  <img src="https://readme-jokes.vercel.app/api?theme=dark&background=0D1117" alt="Jokes Card" />
+  <table>
+    <tr>
+        <td align="center" width="50%">
+            <h3>😂 Daily Dev Joke</h3>
+            <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
+        </td>
+        <td align="center" width="50%">
+            <h3>🔥 Activity Graph</h3>
+             <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shweta-Tech-creator&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&area_color=F76B8A&line=6A82FB&point=F76B8A" width="100%" />
+        </td>
+    </tr>
+  </table>
 </div>
 
 <br />
