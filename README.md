@@ -287,37 +287,7 @@ As a **B.Tech Second-Year Student**, I'm blending creativity with code to build 
   <img src="https://github.com/Shweta-Tech-creator/Shweta-Tech-creator/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Snake Animation" width="100%" />
 </div>
 
-<br />
 
-<div align="center">
-  <h3>😂 Daily Dev Joke</h3>
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
-</div>
-
-<h2 align="center">💭 <span style="background: linear-gradient(90deg, #6A82FB, #F76B8A); -webkit-background-clip: text; color: transparent;">Words to Code By</span></h2>
-
-<div align="center" style="
-  background: linear-gradient(145deg, #1e1e2e, #2a2a3a);
-  border-radius: 15px;
-  padding: 20px;
-  max-width: 700px;
-  margin: 0 auto;
-  box-shadow: 0 10px 20px rgba(0,0,0,0.2);
-  border-left: 4px solid #F76B8A;
-  border-right: 4px solid #6A82FB;
-">
-  <p style="
-    font-family: 'Georgia', serif;
-    font-size: 22px;
-    font-style: italic;
-    color: #D4D4F7;
-    line-height: 1.6;
-    text-align: center;
-  ">
-   "The beautiful thing about learning is that no one can take it away from you."
-   <span style="display: inline-block; margin-top: 10px; font-size: 18px; color: #6A82FB;">— B.B. King</span>
-  </p>
-</div>
 
 ## 💬 Let's Connect
 
