@@ -4,7 +4,16 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=6A82FB&center=true&vCenter=true&width=650&height=60&lines=Frontend+Developer+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Full+Stack+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A4%96;Continuous+Learner+%F0%9F%93%9A" alt="Typing SVG" />
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=6A82FB&center=true&vCenter=true&width=450&height=60&lines=Frontend+Developer+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Full+Stack+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A4%96;Continuous+Learner+%F0%9F%93%9A" alt="Typing SVG" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <p align="center">
