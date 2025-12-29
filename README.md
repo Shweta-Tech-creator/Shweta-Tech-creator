@@ -94,12 +94,22 @@ As a **B.Tech Second-Year Student**, I'm blending creativity with code to build 
 
 <h2 align="center">📊 <span style="background: linear-gradient(90deg, #6A82FB, #F76B8A); -webkit-background-clip: text; color: transparent;">GitHub Analytics</span></h2>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shweta-Tech-creator&show_icons=true&theme=radical&border_color=6A82FB&bg_color=0D1117&title_color=F76B8A&icon_color=6A82FB" alt="GitHub Stats" style="border-radius: 10px; box-shadow: 0 10px 20px rgba(106,130,251,0.2);"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shweta-Tech-creator&theme=radical&border_color=6A82FB&background=0D1117&stroke=F76B8A" alt="GitHub Streak" style="border-radius: 10px; box-shadow: 0 10px 20px rgba(247,107,138,0.2);"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shweta-Tech-creator&layout=compact&theme=radical&border_color=6A82FB&bg_color=0D1117&title_color=F76B8A" alt="Top Languages" style="border-radius: 10px; box-shadow: 0 10px 20px rgba(106,130,251,0.2);"/>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Shweta-Tech-creator&show_icons=true&theme=radical&border_color=6A82FB&bg_color=0D1117&title_color=F76B8A&icon_color=6A82FB" alt="GitHub Stats" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shweta-Tech-creator&theme=radical&border_color=6A82FB&background=0D1117&stroke=F76B8A" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shweta-Tech-creator&layout=compact&theme=radical&border_color=6A82FB&bg_color=0D1117&title_color=F76B8A" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 <h4 align="center">
   
