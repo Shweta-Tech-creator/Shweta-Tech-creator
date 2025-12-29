@@ -33,58 +33,199 @@ As a **B.Tech Second-Year Student**, I'm blending creativity with code to build 
 - 🎯 Driven by a desire for continuous growth and solving real-world problems with code. 
 
 
-<div align="center">
-  <h2>🛠 <span style="background: linear-gradient(90deg, #6A82FB, #F76B8A); -webkit-background-clip: text; color: transparent;">Technical Skills</span></h2>
-  
-  <h3 align="left">💻 Programming Languages</h3>
-  <p align="left">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-     <img src="https://img.shields.io/badge/NoSQL-4479A1?style=for-the-badge&logo=mongodb&logoColor=white"/>
-     <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-  </p>
-  
-  <h3 align="left">🌐 Web Development & Frameworks</h3>
-  <p align="left">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  </p>
-  
-   <h3 align="left">🗄️ Databases & Cloud</h3>
-  <p align="left">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  </p>
+<h2 align="center">⚡ Tech Stack & Arsenal</h2>
 
-  <h3 align="left">🔧 Tools & Platforms</h3>
-  <p align="left">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  </p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="48" height="48" />
+        <br>Java
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="48" height="48" />
+        <br>C++
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+        <br>HTML5
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+        <br>CSS3
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+        <br>Node.js
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+        <br>Express
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
+        <br>MySQL
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+        <br>MongoDB
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+        <br>Firebase
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+        <br>Git
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+        <br>GitHub
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+        <br>VS Code
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+        <br>Figma
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-<h2 align="center">🚀 <span style="background: linear-gradient(90deg, #F76B8A, #6A82FB); -webkit-background-clip: text; color: transparent;">Featured Projects</span></h2>
+<h2 align="center">🚀 Featured Projects</h2>
 
-<div align="center">
-
-| **Project** | **Description** |
-| :--- | :--- |
-| **🎬 SceneSync** | Collaborative script editor & storyboard canvas with real-time sync and AI scene analysis. |
-| **🎓 Externship** | Integrated internship portal for efficient application tracking and admin management. |
-| **🔗 LinkOrbit** | Social media aggregator to schedule posts and centralize interactions across platforms. |
-| **🐾 Petzz** | Complete pet care platform for health records, appointments, and document management. |
-
-</div>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🎬 SceneSync</h3>
+      <div align="center">
+        <a href="#" target="_blank">
+          <img src="https://img.icons8.com/fluency/96/000000/clapperboard.png" width="80" alt="SceneSync"/>
+        </a>
+      </div>
+      <br>
+      <p align="center">
+        <strong>Collaborative Script Editor & Storyboard Canvas</strong>
+      </p>
+      <p align="center">
+        Real-time collaborative editing with interactive storyboard canvas, AI-powered scene breakdown using Google Gemini AI, timeline-based shot sequencing with audio support, and team collaboration features.
+      </p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" />
+      </div>
+      <br>
+      <div align="center">
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-FF61A6?style=for-the-badge&logo=google-chrome&logoColor=white" />
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎓 Externship</h3>
+      <div align="center">
+        <a href="#" target="_blank">
+          <img src="https://img.icons8.com/fluency/96/000000/student-center.png" width="80" alt="Externship"/>
+        </a>
+      </div>
+      <br>
+      <p align="center">
+        <strong>Internship Management Portal</strong>
+      </p>
+      <p align="center">
+        Complete platform for managing internship opportunities. Admin can add/manage internships, users can browse and apply online, track application status, upload resumes and certificates with seamless communication.
+      </p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      </div>
+      <br>
+      <div align="center">
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-6A82FB?style=for-the-badge&logo=google-chrome&logoColor=white" />
+        </a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔗 LinkOrbit</h3>
+      <div align="center">
+        <a href="#" target="_blank">
+          <img src="https://img.icons8.com/fluency/96/000000/share-3.png" width="80" alt="LinkOrbit"/>
+        </a>
+      </div>
+      <br>
+      <p align="center">
+        <strong>Social Media Aggregator Platform</strong>
+      </p>
+      <p align="center">
+        Unified dashboard displaying posts from Instagram, Facebook, and Twitter. Schedule posts, manage content across platforms, handle comments, and track all social media activities in one place.
+      </p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/API-FF6B6B?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      </div>
+      <br>
+      <div align="center">
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-FF61A6?style=for-the-badge&logo=google-chrome&logoColor=white" />
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🐾 Petzz Area</h3>
+      <div align="center">
+        <a href="#" target="_blank">
+          <img src="https://img.icons8.com/fluency/96/000000/dog.png" width="80" alt="Petzz"/>
+        </a>
+      </div>
+      <br>
+      <p align="center">
+        <strong>Complete Pet Care Platform</strong>
+      </p>
+      <p align="center">
+        Comprehensive platform to manage pets including profiles, health records, and appointments. Book vet appointments, upload documents, track health history with integrated dashboard and notifications.
+      </p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      </div>
+      <br>
+      <div align="center">
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-6A82FB?style=for-the-badge&logo=google-chrome&logoColor=white" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
