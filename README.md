@@ -241,28 +241,19 @@ As a **B.Tech Second-Year Student**, I'm blending creativity with code to build 
 <h2 align="center">🏆 Achievements & Analytics</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shweta-Tech-creator&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shweta-Tech-creator&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 <br/>
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Shweta-Tech-creator&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F76B8A&icon_color=6A82FB&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shweta-Tech-creator&theme=radical&hide_border=true&background=0D1117&stroke=F76B8A&ring=F76B8A&fire=F76B8A&currStreakLabel=F76B8A" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shweta-Tech-creator&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F76B8A&langs_count=8" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shweta-Tech-creator&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F76B8A&icon_color=6A82FB&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Shweta-Tech-creator&theme=radical&hide_border=true&background=0D1117&stroke=F76B8A&ring=F76B8A&fire=F76B8A" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shweta-Tech-creator&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F76B8A&langs_count=8" alt="Top Languages" />
+</p>
 
 <h4 align="center">
   
