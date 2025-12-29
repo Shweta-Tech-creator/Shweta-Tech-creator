@@ -1,20 +1,6 @@
-<h1 align="center">
-  <span style="
-    background: linear-gradient(90deg, #F76B8A, #6A82FB, #F76B8A);
-    -webkit-background-clip: text;
-    background-clip: text;
-    color: transparent;
-    font-family: 'Poppins', sans-serif;
-    font-weight: 800;
-    font-size: 2.5rem;
-    text-shadow: 0 2px 10px rgba(0,0,0,0.1);
-    display: inline-block;
-    animation: gradient 8s ease infinite;
-    background-size: 200% 200%;
-  ">
-    ✨ Hello World! I'm <span style="color:#FF61A6;">Sweta Kadam</span> ✨
-  </span>
-</h1>
+<div align="center">
+  <img src="./header.svg" width="100%" alt="Header animation" />
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=500&color=F76B8A&center=true&vCenter=true&width=650&height=80&lines=Frontend+Developer+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Full+Stack+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A4%96;Continuous+Learner+%F0%9F%93%9A" alt="Typing SVG" />
