@@ -3,18 +3,23 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,F76B8A,6A82FB&height=250&section=header&text=Sweta%20Kadam&fontSize=80&fontAlign=50&fontAlignY=35&desc=Turning%20Coffee%20Into%20Code%20☕&descAlign=50&descAlignY=60&descSize=25&animation=fadeIn" width="100%" alt="Header" />
 </div>
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=6A82FB&center=true&vCenter=true&width=450&height=60&lines=Frontend+Developer+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Full+Stack+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A4%96;Continuous+Learner+%F0%9F%93%9A" alt="Typing SVG" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation" />
-      </td>
-    </tr>
-  </table>
-</div>
+<br />
+
+<table width="100%">
+  <tr>
+    <td width="60%" valign="center">
+      <h3 align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=F76B8A&center=true&vCenter=true&width=600&height=100&lines=Frontend+Developer+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+MongoDB;Problem+Solver+%F0%9F%A7%A9;Continuous+Learner+%F0%9F%93%9A" alt="Typing SVG" />
+      </h3>
+      <p align="center">
+        <img src="https://komarev.com/ghpvc/?username=Shweta-Tech-creator&label=Profile%20Views&color=F76B8A&style=for-the-badge" alt="Profile Views" />
+      </p>
+    </td>
+    <td width="40%" valign="center">
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding GIF" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sweta-kadam-5851a4323" target="_blank">
