@@ -146,7 +146,7 @@ As a **B.Tech Second-Year Student**, I'm blending creativity with code to build 
     <td width="50%" valign="top">
       <h3 align="center">🎬 SceneSync</h3>
       <div align="center">
-        <a href="#" target="_blank">
+        <a href="https://scene-sync-tau.vercel.app/" target="_blank">
           <img src="https://img.icons8.com/fluency/96/000000/clapperboard.png" width="80" alt="SceneSync"/>
         </a>
       </div>
@@ -165,7 +165,7 @@ As a **B.Tech Second-Year Student**, I'm blending creativity with code to build 
       </div>
       <br>
       <div align="center">
-        <a href="#" target="_blank">
+        <a href="https://scene-sync-tau.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Live_Demo-FF61A6?style=for-the-badge&logo=google-chrome&logoColor=white" />
         </a>
       </div>
@@ -173,7 +173,7 @@ As a **B.Tech Second-Year Student**, I'm blending creativity with code to build 
     <td width="50%" valign="top">
       <h3 align="center">🎓 Externship</h3>
       <div align="center">
-        <a href="#" target="_blank">
+        <a href="https://externship-webapp-cua4.onrender.com/" target="_blank">
           <img src="https://img.icons8.com/fluency/96/000000/student-center.png" width="80" alt="Externship"/>
         </a>
       </div>
@@ -192,7 +192,7 @@ As a **B.Tech Second-Year Student**, I'm blending creativity with code to build 
       </div>
       <br>
       <div align="center">
-        <a href="#" target="_blank">
+        <a href="https://externship-webapp-cua4.onrender.com/" target="_blank">
           <img src="https://img.shields.io/badge/Live_Demo-6A82FB?style=for-the-badge&logo=google-chrome&logoColor=white" />
         </a>
       </div>
@@ -202,7 +202,7 @@ As a **B.Tech Second-Year Student**, I'm blending creativity with code to build 
     <td width="50%" valign="top">
       <h3 align="center">🔗 LinkOrbit</h3>
       <div align="center">
-        <a href="#" target="_blank">
+        <a href="https://link-orbit-one.vercel.app/" target="_blank">
           <img src="https://img.icons8.com/fluency/96/000000/share-3.png" width="80" alt="LinkOrbit"/>
         </a>
       </div>
@@ -220,7 +220,7 @@ As a **B.Tech Second-Year Student**, I'm blending creativity with code to build 
       </div>
       <br>
       <div align="center">
-        <a href="#" target="_blank">
+        <a href="https://link-orbit-one.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Live_Demo-FF61A6?style=for-the-badge&logo=google-chrome&logoColor=white" />
         </a>
       </div>
@@ -228,7 +228,7 @@ As a **B.Tech Second-Year Student**, I'm blending creativity with code to build 
     <td width="50%" valign="top">
       <h3 align="center">🐾 Petzz Area</h3>
       <div align="center">
-        <a href="#" target="_blank">
+        <a href="https://shweta-tech-creator.github.io/petzz/" target="_blank">
           <img src="https://img.icons8.com/fluency/96/000000/dog.png" width="80" alt="Petzz"/>
         </a>
       </div>
@@ -246,7 +246,7 @@ As a **B.Tech Second-Year Student**, I'm blending creativity with code to build 
       </div>
       <br>
       <div align="center">
-        <a href="#" target="_blank">
+        <a href="https://shweta-tech-creator.github.io/petzz/" target="_blank">
           <img src="https://img.shields.io/badge/Live_Demo-6A82FB?style=for-the-badge&logo=google-chrome&logoColor=white" />
         </a>
       </div>
@@ -325,3 +325,5 @@ Feel free to connect with me and collaborate on exciting tech projects!
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,6A82FB,F76B8A&height=100&section=footer" width="100%" />
 </div>
+
+<br/>
