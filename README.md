@@ -60,7 +60,7 @@ As a **B.Tech Second-Year Student**, I'm blending creativity with code to build 
 - 🎯 Driven by a desire for continuous growth and solving real-world problems with code. 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZndqZndqZndqZndqZndqZndqZndqZndqZndqZndqZndqJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1QHUR3lyGQ/giphy.gif" width="300" alt="Coding Girl Animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="600" alt="Coding Girl Animation" />
 </p>
 
 
@@ -305,7 +305,7 @@ As a **B.Tech Second-Year Student**, I'm blending creativity with code to build 
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2I4N2I4N2I4N2I4N2I4N2I4N2I4N2I4N2I4N2I4N2I4N2I4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Status Animation" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVreXNqZndqZndqZndqZndqZndqZndqZndqZndqZndqZndqJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Status Animation" />
 </div>
 
 
