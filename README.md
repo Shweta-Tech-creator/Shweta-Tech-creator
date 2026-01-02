@@ -59,6 +59,10 @@ As a **B.Tech Second-Year Student**, I'm blending creativity with code to build 
 - 💡 Deepening my passion for **Full Stack Development** and creating seamless **User Experiences**.  
 - 🎯 Driven by a desire for continuous growth and solving real-world problems with code. 
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZndqZndqZndqZndqZndqZndqZndqZndqZndqZndqZndqJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1QHUR3lyGQ/giphy.gif" width="300" alt="Coding Girl Animation" />
+</p>
+
 
 <h2 align="center">⚡ Tech Stack & Arsenal</h2>
 
@@ -66,11 +70,11 @@ As a **B.Tech Second-Year Student**, I'm blending creativity with code to build 
   <table>
     <tr>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" style="animation: bounce 2s infinite" />
         <br>JavaScript
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" style="animation: spin 3s linear infinite" />
         <br>React
       </td>
       <td align="center" width="96">
@@ -120,12 +124,6 @@ As a **B.Tech Second-Year Student**, I'm blending creativity with code to build 
         <br>Git
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-        <br>GitHub
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
         <br>VS Code
       </td>
@@ -136,6 +134,10 @@ As a **B.Tech Second-Year Student**, I'm blending creativity with code to build 
     </tr>
   </table>
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shweta-Tech-creator&label=Profile%20Views&color=F76B8A&style=for-the-badge" alt="Profile Views" style="animation: pulse 2s infinite" />
+</p>
 
 ---
 
@@ -302,6 +304,10 @@ As a **B.Tech Second-Year Student**, I'm blending creativity with code to build 
   <img src="https://github.com/Shweta-Tech-creator/Shweta-Tech-creator/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Snake Animation" width="100%" />
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2I4N2I4N2I4N2I4N2I4N2I4N2I4N2I4N2I4N2I4N2I4N2I4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Status Animation" />
+</div>
+
 
 
 ## 💬 Let's Connect
@@ -317,6 +323,12 @@ Feel free to connect with me and collaborate on exciting tech projects!
   </a>
   <a href="mailto:kadamsweta92@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:kadamsweta92@gmail.com">
+    <img src="https://img.shields.io/badge/Contact%20Me-Click%20Here-FF61A6?style=for-the-badge&logo=gmail&logoColor=white" style="animation: pulse 1.5s infinite" />
   </a>
 </p>
 
