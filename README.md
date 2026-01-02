@@ -146,7 +146,7 @@ As a **B.Tech Second-Year Student**, I'm blending creativity with code to build 
     <td width="50%" valign="top">
       <h3 align="center">🎬 SceneSync</h3>
       <div align="center">
-        <a href="https://scene-sync-tau.vercel.app" target="_blank">
+        <a href="#" target="_blank">
           <img src="https://img.icons8.com/fluency/96/000000/clapperboard.png" width="80" alt="SceneSync"/>
         </a>
       </div>
