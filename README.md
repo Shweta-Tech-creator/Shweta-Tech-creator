@@ -60,7 +60,7 @@ As a **B.Tech Second-Year Student**, I'm blending creativity with code to build 
 - 🎯 Driven by a desire for continuous growth and solving real-world problems with code. 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Lq0h92Ad09m1k1uXnO/giphy.gif" width="600" alt="Dog Man Working on Computer Animation" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTE2YTQ4M2J0ajVrbThyc2hlZ3Bja2UzcWRwbmN2d3FqZ3h5eno1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1XCcD9VLQZ2Io/giphy.gif" width="600" alt="Dog Man Working on Computer Animation" />
 </p>
 
 
