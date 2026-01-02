@@ -60,7 +60,7 @@ As a **B.Tech Second-Year Student**, I'm blending creativity with code to build 
 - 🎯 Driven by a desire for continuous growth and solving real-world problems with code. 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="600" alt="Man Working on Computer Animation" />
+  <img src="https://media.giphy.com/media/Lq0h92Ad09m1k1uXnO/giphy.gif" width="600" alt="Dog Man Working on Computer Animation" />
 </p>
 
 
