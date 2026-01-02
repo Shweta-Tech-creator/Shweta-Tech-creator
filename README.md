@@ -60,7 +60,7 @@ As a **B.Tech Second-Year Student**, I'm blending creativity with code to build 
 - 🎯 Driven by a desire for continuous growth and solving real-world problems with code. 
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Bsb3ZqcjVqZndqZndqZndqZndqZndqZndqZndqZndqZndqZndqJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" alt="Creative Coding Animation" />
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/Girl-Coding-Serious.gif" width="600" alt="Creative Coding Animation" />
 </p>
 
 
@@ -302,10 +302,6 @@ As a **B.Tech Second-Year Student**, I'm blending creativity with code to build 
 <div align="center">
   <!-- Snake -->
   <img src="https://github.com/Shweta-Tech-creator/Shweta-Tech-creator/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Snake Animation" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVreXNqZndqZndqZndqZndqZndqZndqZndqZndqZndqZndqJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Status Animation" />
 </div>
 
 
