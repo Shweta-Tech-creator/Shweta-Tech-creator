@@ -276,20 +276,11 @@ As a **B.Tech Second-Year Student**, I'm blending creativity with code to build 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shweta-Tech-creator&theme=radical" alt="Top Languages" />
 </p>
+<h2 align="center">🏎️ Sweta's Tech Journey</h2>
 
-<h4 align="center">
-  
-```diff
-+---------------------------------+        +---------------------------------+     +---------------------------------+
-████████╗██╗  ██╗██╗███╗   ██╗██╗  ██╗        ██████╗ ██████╗ ██████╗ ███████╗       ██████╗ ██╗   ██╗██╗██╗     ██████╗    
-╚══██╔══╝██║  ██║██║████╗  ██║██║ ██╔╝       ██╔════╝██╔═══██╗██╔══██╗██╔════╝       ██╔══██╗██║   ██║██║██║     ██╔══██╗   
-   ██║   ███████║██║██╔██╗ ██║█████╔╝        ██║     ██║   ██║██║  ██║█████╗         ██████╔╝██║   ██║██║██║     ██║  ██║   
-   ██║   ██╔══██║██║██║╚██╗██║██╔═██╗        ██║     ██║   ██║██║  ██║██╔══╝         ██╔══██╗██║   ██║██║██║     ██║  ██║   
-   ██║   ██║  ██║██║██║ ╚████║██║  ██╗██╗    ╚██████╗╚██████╔╝██████╔╝███████╗██╗    ██████╔╝╚██████╔╝██║███████╗██████╔╝██╗
-   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝     ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝╚═╝    ╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝ ╚═╝
-+---------------------------------+        +---------------------------------+      +---------------------------------+
-```
-</h4>
+<div align="center">
+  <img src="./assets/car-journey.svg" width="100%" alt="Car Journey" />
+</div>
 
 <h2 align="center">🔥 <span style="background: linear-gradient(90deg, #F76B8A, #6A82FB); -webkit-background-clip: text; color: transparent;">Contribution Graph</span></h2>
 
