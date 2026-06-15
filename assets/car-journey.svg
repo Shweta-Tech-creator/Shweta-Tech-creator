@@ -1,0 +1,201 @@
+```svg
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+
+<style>
+.car {
+  animation: drive 14s linear infinite;
+}
+
+.road {
+  animation: roadmove 1s linear infinite;
+}
+
+.star {
+  animation: twinkle 2s infinite alternate;
+}
+
+@keyframes drive {
+  from { transform: translateX(-150px); }
+  to { transform: translateX(1300px); }
+}
+
+@keyframes roadmove {
+  from { transform: translateX(0); }
+  to { transform: translateX(-120px); }
+}
+
+@keyframes twinkle {
+  from { opacity: .3; }
+  to { opacity: 1; }
+}
+
+.title {
+  font: bold 30px sans-serif;
+  fill: white;
+}
+
+.label {
+  font: bold 14px sans-serif;
+  fill: white;
+}
+</style>
+
+<defs>
+
+<linearGradient id="sky" x1="0%" y1="0%" x2="0%" y2="100%">
+  <stop offset="0%" stop-color="#0D1117"/>
+  <stop offset="100%" stop-color="#1A1F4A"/>
+</linearGradient>
+
+<linearGradient id="roadGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+  <stop offset="0%" stop-color="#444"/>
+  <stop offset="100%" stop-color="#222"/>
+</linearGradient>
+
+<filter id="glow">
+  <feGaussianBlur stdDeviation="4" result="blur"/>
+  <feMerge>
+    <feMergeNode in="blur"/>
+    <feMergeNode in="SourceGraphic"/>
+  </feMerge>
+</filter>
+
+</defs>
+
+<!-- Sky -->
+<rect width="1200" height="320" fill="url(#sky)"/>
+
+<!-- Stars -->
+<circle class="star" cx="100" cy="40" r="2" fill="white"/>
+<circle class="star" cx="220" cy="70" r="2" fill="white"/>
+<circle class="star" cx="430" cy="35" r="2" fill="white"/>
+<circle class="star" cx="670" cy="55" r="2" fill="white"/>
+<circle class="star" cx="950" cy="30" r="2" fill="white"/>
+<circle class="star" cx="1100" cy="60" r="2" fill="white"/>
+
+<!-- Mountains -->
+<polygon points="0,180 120,90 240,180" fill="#25284D"/>
+<polygon points="180,180 350,70 520,180" fill="#2D3260"/>
+<polygon points="500,180 700,60 900,180" fill="#25284D"/>
+<polygon points="850,180 1050,80 1200,180" fill="#2D3260"/>
+
+<!-- Title -->
+<text x="600" y="40"
+      text-anchor="middle"
+      class="title"
+      filter="url(#glow)">
+🚀 Sweta's Tech Journey
+</text>
+
+<!-- Journey Line -->
+<line x1="120" y1="130"
+      x2="1080" y2="130"
+      stroke="#666"
+      stroke-width="4"/>
+
+<!-- Milestones -->
+
+<circle cx="120" cy="130" r="10" fill="#F76B8A"/>
+<text x="120" y="100" text-anchor="middle" class="label">🎓 Student</text>
+
+<circle cx="320" cy="130" r="10" fill="#6A82FB"/>
+<text x="320" y="100" text-anchor="middle" class="label">🏆 Record</text>
+
+<circle cx="520" cy="130" r="10" fill="#F76B8A"/>
+<text x="520" y="100" text-anchor="middle" class="label">🤖 GenAI</text>
+
+<circle cx="720" cy="130" r="10" fill="#6A82FB"/>
+<text x="720" y="100" text-anchor="middle" class="label">🐾 Petzz</text>
+
+<circle cx="920" cy="130" r="10" fill="#F76B8A"/>
+<text x="920" y="100" text-anchor="middle" class="label">☁️ DevOps</text>
+
+<circle cx="1080" cy="130" r="10" fill="#6A82FB"/>
+<text x="1080" y="100" text-anchor="middle" class="label">🚀 Engineer</text>
+
+<!-- Road -->
+<rect x="0" y="220"
+      width="1200"
+      height="80"
+      fill="url(#roadGradient)"/>
+
+<!-- Road Stripes -->
+<g class="road">
+  <rect x="0" y="255" width="80" height="8" fill="white"/>
+  <rect x="140" y="255" width="80" height="8" fill="white"/>
+  <rect x="280" y="255" width="80" height="8" fill="white"/>
+  <rect x="420" y="255" width="80" height="8" fill="white"/>
+  <rect x="560" y="255" width="80" height="8" fill="white"/>
+  <rect x="700" y="255" width="80" height="8" fill="white"/>
+  <rect x="840" y="255" width="80" height="8" fill="white"/>
+  <rect x="980" y="255" width="80" height="8" fill="white"/>
+</g>
+
+<!-- Neon Sports Car -->
+<g class="car">
+
+  <rect x="0"
+        y="200"
+        width="110"
+        height="30"
+        rx="12"
+        fill="#F76B8A"
+        filter="url(#glow)"/>
+
+  <polygon points="25,200 50,175 85,175 100,200"
+           fill="#F76B8A"/>
+
+  <polygon points="40,180 55,180 55,195 32,195"
+           fill="#8ED8FF"/>
+
+  <polygon points="60,180 78,180 90,195 60,195"
+           fill="#8ED8FF"/>
+
+  <circle cx="25"
+          cy="232"
+          r="12"
+          fill="#111"/>
+
+  <circle cx="85"
+          cy="232"
+          r="12"
+          fill="#111"/>
+
+  <circle cx="25"
+          cy="232"
+          r="5"
+          fill="#999"/>
+
+  <circle cx="85"
+          cy="232"
+          r="5"
+          fill="#999"/>
+
+</g>
+
+<!-- XP Bar -->
+<rect x="350"
+      y="295"
+      width="500"
+      height="12"
+      rx="6"
+      fill="#333"/>
+
+<rect x="350"
+      y="295"
+      width="380"
+      height="12"
+      rx="6"
+      fill="#F76B8A"/>
+
+<text x="600"
+      y="288"
+      text-anchor="middle"
+      fill="white"
+      font-size="14"
+      font-weight="bold">
+LEVEL 2 • BUILDING PRODUCTS • XP 76%
+</text>
+
+</svg>
+```
