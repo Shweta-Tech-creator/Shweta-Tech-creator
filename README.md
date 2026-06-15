@@ -279,7 +279,7 @@ As a **B.Tech Second-Year Student**, I'm blending creativity with code to build 
 <h2 align="center">🏎️ Sweta's Tech Journey</h2>
 
 <div align="center">
-  <img src="./assets/car-journey.svg" width="100%" alt="Car Journey" />
+ <img src="https://raw.githubusercontent.com/Shweta-Tech-creator/Shweta-Tech-creator/main/assets/car-journey.svg" width="100%" alt="Car Journey"/>
 </div>
 
 <h2 align="center">🔥 <span style="background: linear-gradient(90deg, #F76B8A, #6A82FB); -webkit-background-clip: text; color: transparent;">Contribution Graph</span></h2>
